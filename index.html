@@ -13,8 +13,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="theme-color" content="#fff" />
     <link rel="stylesheet" href="/css/style.css">
-    <link rel="manifest" href="./app.webmanifest">
-    <link rel="manifest" href="manifest.json">
+    <link rel='manifest' href='/manifest.webmanifest'>
     <title>IATA/ICAO</title>
 </head>
 <body>
@@ -22,15 +21,22 @@
     <a href="/fdp/fdp.html" class="fdpLink">FDP</a>
     <a href="/airports/airports.html" class="airportsLink">Airport's</a>
     <script src="/script/script.js"></script>
-    <script src="/script/pwabuilder-sw.js"></script>
+    <script src="/pwabuilder-sw.js"></script>
     <script>
-      if ('serviceWorker' in navigator) 
-          {
-            window.addEventListener('load', () => {
-            navigator.serviceWorker.register('./service-worker.js')
-            .then(() => { console.log("[ PWA Fire Bundle ] Service Worker Registered"); });
-          } ); 
-        }  
+      if ("serviceWorker" in navigator) {
+  if (navigator.serviceWorker.controller) {
+    console.log("[PWA Builder] active service worker found, no need to register");
+  } else {
+    // Register the service worker
+    navigator.serviceWorker
+      .register("pwabuilder-sw.js", {
+        scope: "./"
+      })
+      .then(function (reg) {
+        console.log("[PWA Builder] Service worker has been registered for scope: " + reg.scope);
+      });
+  }
+}
         </script>
 </body>
 </html>
