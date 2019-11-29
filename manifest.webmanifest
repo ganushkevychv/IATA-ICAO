@@ -6,13 +6,17 @@
 	"display" : "standalone",
 	"start_url" : "https://wonderful-elion-130752.netlify.com/",
 	"short_name" : "IATA/ICAO",
-	"theme_color" : "transparent",
+	"theme_color" : "black",
 	"description" : "",
 	"orientation" : "any",
 	"background_color" : "transparent",
 	"related_applications" : "",
 	"prefer_related_applications" : "false",
 	"icons" : [
+		{
+			"src": "https://wonderful-elion-130752.netlify.com/img/me.png",
+			"sizes": "192x192"
+		},	
 		{
 			"src": "https://wonderful-elion-130752.netlify.com/img/me.png",
 			"sizes": "44x44"
