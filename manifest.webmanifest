@@ -12,7 +12,83 @@
 	"background_color" : "transparent",
 	"related_applications" : "",
 	"prefer_related_applications" : "false",
-	"icons" : [],
+	"icons" : [
+		{
+			"src": "/img/me.png",
+			"sizes": "44x44"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "48x48"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "1240x600"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "300x300"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "150x150"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "88x88"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "24x24"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "50x50"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "620x300"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "96x96"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "72x72"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "36x36"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "1024x1024"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "180x180"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "152x152"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "120x120"
+		},
+		{
+			"src": "/img/me.png",
+			"sizes": "76x76"
+		}],
 	"screenshots" : [],
-	"generated" : "true"
+	"generated" : "undefined"
 }
