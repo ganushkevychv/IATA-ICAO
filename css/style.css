@@ -1,9 +1,17 @@
-.dcLink, .fdpLink {
+body {
+  background-image: url("/img/sky.jpg");
+}
+.dcLink, .fdpLink, .airportsLink {
+  display: flex;
+  background-position:bottom;
+  flex-direction: row;
+    justify-content: center;
     color: #ffffff;
     background-color: crimson;
     padding: 8px 12px;
-    margin: 3px;
+    margin: 10px;
     border: 2px solid crimson;
+    border-bottom: 6px solid black;
     border-radius: 4px;
     text-decoration: none;
   }
