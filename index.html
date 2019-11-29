@@ -14,7 +14,7 @@
     <a href="airports.html" class="airportsLink">Airport's</a>
     <script src="/script/script.js"></script>
     <script src="/script/pwabuilder-sw.js"></script>
-    <script>// This is the "Offline copy of pages" service worker
+    <script>// This is the service worker with the combined offline experience (Offline page + Offline copy of pages)
 
         // Add this below content to your HTML page, or add the js file to your page at the very top to register service worker
         
@@ -32,8 +32,7 @@
                 console.log("[PWA Builder] Service worker has been registered for scope: " + reg.scope);
               });
           }
-        }
-        
+        }        
         </script>
 </body>
 </html>
