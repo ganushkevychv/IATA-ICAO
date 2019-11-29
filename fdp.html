@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" sizes="192x192" href="/img/flight.png">
+    <link href="/css/fdp.css" rel="stylesheet" type="text/css">
+    <title>FDP</title>
+</head>
+<body>
+        <button id="alert" onclick="alert();">?</button>
+    <div class="container">
+        
+        <div class="containerFdp">
+            <div class="text">
+    <p>FDP</p>
+    <p>SECTORS</p>
+</div>
+<div class="select">
+    <select id="fdpSelect" onchange="ChangeFunc();">
+        <option>TIME</option>
+        <option value="fdpOne"> 06:00 - 13:29
+            </option>
+            <option value="fdpTwo"> 13:30 - 13:59
+                </option>
+                <option value="fdpThree"> 14:00 - 14:29
+                    </option>
+                    <option value="fdpFour"> 14:30 - 14:59
+                        </option>
+                        <option value="fdpFive"> 15:00 - 15:29
+                            </option>
+                            <option value="fdpSix"> 15:30 - 15:59
+                                </option>
+                                <option value="fdpSeven"> 16:00 - 16:29
+                                    </option>
+                                    <option value="fdpEight"> 16:30 - 16:59
+                                        </option>
+                                        <option value="fdpNine"> 17:00 - 04:59
+                                            </option>
+                                            <option value="fdpTen"> 05:00 - 05:14
+                                                </option>
+                                                <option value="fdpEleven"> 05:15 - 05:29
+                                                    </option>
+                                                    <option value="fdpTwelve"> 05:30 - 05:44
+                                                        </option>
+                                                        <option value="fdpThirteen"> 05:45 - 05:59
+                                                            </option>
+    </select>
+
+<div class="containerSector">
+<select id="sectorSelect" onchange="ChangeFunc();">
+    <option>SECTORS</option>
+    <option value="sectorOneTwo">1 - 2</option>
+    <option value="sectorThree">3</option>
+    <option value="sectorFour">4</option>
+    <option value="sectorFive">5</option>
+    <option value="sectorSix">6</option>
+</select>
+</div>
+</div>
+<div id="result"> </div>
+<div class="timeSelector">
+    <select id="time" onchange="ChangeFunc();"></select>
+</div>
+<div id="resultTime"></div>
+</div>
+<div id="resultFdp"></div>
+
+<!--<p>Extension not included</p>-->
+</div>
+<div id="containerBtn">
+  <button id="addBtn">Extension +1h</button>
+  <button id="addBtnTwo">Extension +2h</button>
+</div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="/script/scriptFdp.js"></script>
+</body>
+</html>
