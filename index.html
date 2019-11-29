@@ -1,12 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="IATA/ICAO">
+    <meta name="apple-mobile-web-app-title" content="IATA/ICAO">
+    <meta name="msapplication-starturl" content="https://wonderful-elion-130752.netlify.com/">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="theme-color">
+    <meta name="theme-color" content="#fff" />
     <link rel="stylesheet" href="/css/style.css">
-    <link rel='manifest' href='manifest.webmanifest'>
+    <link rel="manifest" href="./app.webmanifest">
+    <link rel="manifest" href="manifest.json">
     <title>IATA/ICAO</title>
 </head>
 <body>
@@ -16,26 +24,13 @@
     <script src="/script/script.js"></script>
     <script src="/script/pwabuilder-sw.js"></script>
     <script>
-// This is the "Offline copy of pages" service worker
-
-// Add this below content to your HTML page, or add the js file to your page at the very top to register service worker
-
-// Check compatibility for the browser we're running this in
-if ("serviceWorker" in navigator) {
-  if (navigator.serviceWorker.controller) {
-    console.log("[PWA Builder] active service worker found, no need to register");
-  } else {
-    // Register the service worker
-    navigator.serviceWorker
-      .register("pwabuilder-sw.js", {
-        scope: "./"
-      })
-      .then(function (reg) {
-        console.log("[PWA Builder] Service worker has been registered for scope: " + reg.scope);
-      });
-  }
-}
-
+      if ('serviceWorker' in navigator) 
+          {
+            window.addEventListener('load', () => {
+            navigator.serviceWorker.register('./service-worker.js')
+            .then(() => { console.log("[ PWA Fire Bundle ] Service Worker Registered"); });
+          } ); 
+        }  
         </script>
 </body>
 </html>
