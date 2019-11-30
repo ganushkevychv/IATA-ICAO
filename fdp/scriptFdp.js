@@ -1,5 +1,5 @@
 let obj = {};
-fetch("/script/fdp.json")
+fetch("/fdp/fdp.json")
   .then(response => response.json())
   .then(json => (obj = json));
 
@@ -86,7 +86,7 @@ defaultOption.text = "Check-in time";
 timeSelection.add(defaultOption);
 timeSelection.selectedIndex = 0;
 
-fetch("/script/time.json").then(function(response) {
+fetch("/fdp/time.json").then(function(response) {
   response.json().then(function(data) {
     let option;
 
