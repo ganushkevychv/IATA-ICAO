@@ -18,7 +18,7 @@ fetch("/alphabet/alphabet.json")
         if(alphabet === "") {
             Swal.fire({
                 title: 'Error!',
-                text: "You forgotenter text",
+                text: "You forgot to enter text",
                 icon: 'error',
                 confirmButtonText: 'OK'
               })
