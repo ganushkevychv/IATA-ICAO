@@ -1,0 +1,81 @@
+{
+    "a": {
+        "Alpha":"Alpha"
+    },
+    "b": {
+        "Bravo":"Bravo"
+    },
+    "c": {
+        "Charlie":"Charlie"
+    },
+    "d": {
+        "Delta":"Delta"
+    },
+    "e": {
+        "Echo":"Echo"
+    },
+    "f": {
+        "Foxtrot":"Foxtrot"
+    },
+    "g": {
+        "Golf":"Golf"
+    },
+    "h": {
+        "Hotel":"Hotel"
+    },
+    "i": {
+        "India":"India"
+    },
+    "j": {
+        "Juliet":"Juliet"
+    },
+    "k": {
+        "Kilo":"Kilo"
+    },
+    "l": {
+        "Lima":"Lima"
+    },
+    "m": {
+        "Mike":"Mike"
+    },
+    "n": {
+        "November":"November"
+    },
+    "o": {
+        "Oscar":"Oscar"
+    },
+    "p": {
+        "Papa":"Papa"
+    },
+    "q": {
+        "Quebec":"Quebec"
+    },
+    "r": {
+        "Romeo":"Romeo"
+    },
+    "s": {
+        "Sierra":"Sierra"
+    },
+    "t": {
+        "Tango":"Tango"
+    },
+    "u": {
+        "Uniform":"Uniform"
+    },
+    "v": {
+        "Victor":"Victor"
+    },
+    "w": {
+        "Whiskey":"Whiskey"
+    },
+    "x": {
+        "X-Ray":"Alpha"
+    },
+    "y": {
+        "Yankee":"Yankee"
+    },
+    "z": {
+        "Zulu":"Zulu"
+    }
+    
+}
