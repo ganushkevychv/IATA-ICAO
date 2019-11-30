@@ -9,9 +9,12 @@
 </head>
 <body>
     <p><b>Aviation Phonetic Alphabet</b>
-    <input type="text" size="30" placeholder="Search...">
+    <input type="text" size="30" placeholder="Search..." id="alphabet">
+    <input type="button" value="search" id="search" onclick="searchFunc()">
     </p>
+    <div id="result"></div>
     <a href="/index.html" class="backLink">Back</a>
-    <script src="/script/alphabet.js"></script>
+    <script src="/alphabet/alphabet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 </body>
 </html>
