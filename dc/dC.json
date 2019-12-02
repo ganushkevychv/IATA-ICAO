@@ -1,0 +1,19 @@
+{
+    "1":{
+        "AIRLINE SPECIFIC": " Cannot determine at the time of departure: Further explanation and new MVT needed within 120 minutes of ATD, which is sent by ground handling"
+        
+        
+    },
+    "2a":{
+        "Use of Airstarter":" Use of air starter in case of aircraft’s APU is INOP. Code to be used up to 10 mins, if more time needed use code 39.Not to be used in case of air starter unit not ready on stand when required"
+    },
+    "2b":{
+        "Manual start of engine":" Ramp agent will be advised by Flight Crew"
+    },
+    "2c":{
+        "Cargo Door manual operation":" In case of aircraft’s cargo door automated operation is INOP, flight crew shall open/close the cargo doors which may cause delays in off/onloading"
+    },
+    "2d":{
+        "Application of Operational (O and M) MEL procedures":" Certain deferred maintenance item requires additional checks/actions (O and M) by the flight crew which may extend the time needed for departure. If such case exists Flight crew will advise the subcode to ramp agent. Not to be used at he first occasion of aircraft defect; in this case code 41 must be used"
+    }
+}
