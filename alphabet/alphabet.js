@@ -6,7 +6,7 @@ fetch("/alphabet/alphabet.json")
 searchFunc = () => {
   let getResultDiv = document.getElementById("result");
   let alphabet = document.getElementById("alphabet").value;
-  getResultDiv.innerHTML = "Result: " + Object.keys(obj[alphabet]);
+  getResultDiv.innerHTML = "Result: " + Object.keys(obj[alphabet.toLowerCase()]);
   if (alphabet in obj)
   // checks if json is present and contains necessary values
   emptyForm = () => {
