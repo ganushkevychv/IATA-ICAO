@@ -15,5 +15,59 @@
     },
     "2d":{
         "Application of Operational (O and M) MEL procedures":" Certain deferred maintenance item requires additional checks/actions (O and M) by the flight crew which may extend the time needed for departure. If such case exists Flight crew will advise the subcode to ramp agent. Not to be used at he first occasion of aircraft defect; in this case code 41 must be used"
+    },
+    "3a":{
+        "Late passenger to gate actually travelling":" Passengers travelling were late at the boarding"
+    },
+    "3b":{
+        "Passengers were offloaded with their bags":" Missing passenger offloaded with their bags"
+    },
+    "3c":{
+        "Passenger offloaded without bags":" Missing passenger offloaded without bags, though initially baggage tracing was initiated"
+    },
+    "4":{
+        "PASSENGER COACHES":" Regardless of whether the coaches are provided by the handling agent or the airport authority"
+    },
+    "4a":{
+        "Shortage":" Not enough buses"
+    },
+    "4b":{
+        "Late":" Buses were late for dis/embarkation"
+    },
+    "4c":{
+        "Late Apron Crew Transport":" Crew was late at the aircraft due to late apron transport despite been ordered /advised in advance"
+    },
+    "5":{
+        "WHEELCHAIRS":" Handling etc (for late ambulift or wheelchair use code 34D or 34E with Supplementary Info / SI remark)"
+    },
+    "6":{
+        "NO GATE/STAND AVAILABLE":" No gate/stand available at the airport"
+    },
+    "7":{
+        "OFFLOADING OF UNRULY PASSENGER":" Delays incurred due to Police attending the inbound flight which delays the outbound sector. Delays accumulated for the handling of unruly passenger including ramp return, refueling, etc."
+    },
+    "7a":{
+        "Inbound":" Unruly passenger was on inbound flight which affected outbound leg as well"
+    },
+    "7b":{
+        "Outbound":" Unruly passenger was on outbound flight which affected departure"
+    },
+    "8":{
+        "AIRPORT SLOT DISCREPANCIES":" (e.g late airport slot allocated)"
+    },
+    "9":{
+        "SCHEDULED GROUND TIME LESS THAN DECLARED MINIMUM GROUND TIME":" In any case when scheduled Turnaround time cannot be met due to the reasons below"
+    },
+    "9a":{
+        "Crew Passport control":" Regular Crew passport control takes more time than needed"
+    },
+    "9b":{
+        "Delayed First wave departures B (extended ground time for night cleaning, catering change, etc..)":" In case of operational decision from Wizz Air OPS"
+    },
+    "9c":{
+        "Insufficient Ground Time for aircraft rotation (less than 25 mins)":" Scheduling discrepancy"
+    },
+    "9d":{
+        "Contracted Turn Around Time is less than declared minimum":" Scheduling discrepancy"
     }
 }
