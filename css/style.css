@@ -1,7 +1,7 @@
 body {
   background-image: url("/img/sky.jpg");
 }
-.dcLink, .fdpLink, .airportsLink, .alphabetLink {
+.dcLink, .fdpLink, .airportsLink, .alphabetLink, .scheduleLink {
   display: flex;
   background-position:bottom;
   flex-direction: row;
