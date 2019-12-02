@@ -69,5 +69,164 @@
     },
     "9d":{
         "Contracted Turn Around Time is less than declared minimum":" Scheduling discrepancy"
+    },
+    "10":{
+        "WEB CHECK-IN":" Discrepancies / errors faced during check-in or boarding"
+    },
+    "10a":{
+        "Web boarding pass error":" In case of web boarding pass error occurs"
+    },
+    "10b":{
+        "Web check-in passenger excess bag":" In case of several web check-in passenger(s) hand bags are charged at the gate, which cause delay"
+    },
+    "11":{
+        "LATE CHECK-IN":" Acceptance after deadline"
+    },
+    "12":{
+        "LATE CHECK-IN":" Congestion in check-in area"
+    },
+    "12a":{
+        "Congestion in spite of all check-in counters open":" Congestion in check-in area due to insufficient space available"
+    },
+    "12b":{
+        "Congestion due to insufficient check-in counters open / Lack of staff":" Congestion due to insufficient check-in counters open / Lack of staff"
+    },
+    "13":{
+        "CHECK-IN ERROR":" Check-in error of passenger and baggage"
+    },
+    "13a":{
+        "Web related check-in error":" Handling should advise responsible Ground operations Manager as soon as flight departed"
+    },
+    "13b":{
+        "Check-in error by handling agent":" Error/fault done by handling agent’s staff"
+    },
+    "14":{
+        "OVERSALES":" Booking error, more seats sold than available"
+    },
+    "15":{
+        "BOARDING":" Discrepancies during boarding"
+    },
+    "15a":{
+        "Late boarding by gate staff":" Aircraft was ready for passengers but handling staff stated it later"
+    },
+    "15b":{
+        "Slow boarding by gate staff":" Embarkation started on time but passengers were not boarded fast enough. Slow acceptance at the gat"
+    },
+    "16":{
+        "MEDICAL EMERGENCY, PASSENGER CONVENIENCE":" To be used in case of medical emergency of passenger convenience caused delay"
+    },
+    "16a":{
+        "Passenger medical emergency":" Code to be advised by flight crew if in relation to boarded passenger. If passenger was not boarded yet handling shall advise Flight Crew"
+    },
+    "16b":{
+        "Crew medical emergency":" Code to be advised by flight crew"
+    },
+    "16c":{
+        "Handling staff medical emergency":" Handling shall advise Flight Crew"
+    },
+    "16d":{
+        "Passenger convenience":" Code to be advised by flight crew if in relation to boarded passenger. If passenger was not boarded yet handling shall advise Flight Crew"
+    },
+    "16e":{
+        "Press, PR events - airline":" If event was organized by Wizz Air"
+    },
+    "16f":{
+        "Press, PR events - airport":" If event was organized by airport/handling. Wizz Air OPS shall be notified of such event in advance"
+    },
+    "16g":{
+        "Other":" Explanation needed"
+    },
+    "18":{
+        "BAGGAGE PROCESSING":" Applies to breakdown of airport baggage system only"
+    },
+    "18a":{
+        "Waiting for bags after baggage system breakdown":" If system breakdown is temporary and bags cannot be put on baggage carts despite check-in closure was on time"
+    },
+    "18b":{
+        "Late check-in closure due to baggage system breakdown":" Passengers are unable to check-in due to baggage system breakdown"
+    },
+    "30":{
+        "LOADING/UNLOADING":" Cabin Baggage"
+    },
+    "30a":{
+        "Excessive hand baggage":" Cabin baggage becomes hold baggage due to being outsized and baggage category changed at the gate"
+    },
+    "30b":{
+        "“Delivery at Aircraft”":" Baby stroller, wheelchair, items handed over at the aircraft"
+    },
+    "31":{
+        "AIRCRAFT DOCUMENTATION":" Late / inaccurate"
+    },
+    "31a":{
+        "Ramp supervision":" Fault of ramp agent, e.g improper or lack of communication, wrong info, etc."
+    },
+    "31b":{
+        "Weight and balance by handling – loadsheet":" Load sheet problems: late, improper, manual loadsheet in case of EDP system breakdown, etc."
+    },
+    "31c":{
+        "Weight and balance by handling – loading instruction":" Loading instruction discrepancies: late, improper, etc."
+    },
+    "31d":{
+        "Passenger related information":" List of extra services, passenger manifest, etc.. late or inaccurate which caused discrepancies on board"
+    },
+    "31e":{
+        "Repositioning of deadload for balance reasons":" Improper balance position and deadload shall be repositioned"
+    },
+    "31f":{
+        "Weight and balance by flight crew":" Weight and balance done by flight crew in case of improper handling activity"
+    },
+    "31g":{
+        "Weather information provided by Ramp agent":" Late or inaccurate (too “old”, not the requested stations, etc.)"
+    },
+    "31h":{
+        "Flight Plan provided by Ramp agent": " Late or inaccurate (too “old”, not the requested stations, etc.)"
+    },
+    "32":{
+        "LOADING/UNLOADING": " Hold Baggage"
+    },
+    "32a":{
+        "Lack of loading staff":" Delay caused by lack of loading staff (late at the aircraft)"
+    },
+    "32b":{
+        "Wrong bag count":" Delay caused by handling agent's wrong bag count"
+    },
+    "32c":{
+        "Not controllable e.g. bulky loads":" Delay caused by the uncontrollable bulky loads - e.g. too many sport equipment, etc."
+    },
+    "33":{
+        "LOADING EQUIPMENT":" Lack of or breakdown of ground servicing equipment, Late at the aircraft"
+    },
+    "33a":{
+        "Lack of":" Delay caused by lack of loading equipment"
+    },
+    "33b":{
+        "Breakdown":" Delay caused by breakdown of loading equipment"
+    },
+    "33c":{
+        "Late at the aircraft":" Delay caused by late arrival of loading equipment to the aircraft"
+    },
+    "34":{
+        "SERVICING EQUIPMENT":" Lack of or breakdown of ground servicing equipment, Late at the aircraft"
+    },
+    "34a":{
+        "Steps":" Delay caused by late, lack of or breakdown of steps. In case of jetbridge use 87C"
+    },
+    "34b":{
+        "Water service":" Delay caused by late, lack of or breakdown of water service"
+    },
+    "34c":{
+        "Toilet service":" Delay caused by late, lack of or breakdown of toilet service"
+    },
+    "34d":{
+        "Ambulift":" Delay caused by late, lack of or breakdown of ambulift"
+    },
+    "34e":{
+        "Wheelchair":" Delay caused by late, lack of or breakdown of manual wheelchair-moving equipment. (e.g pax manually taken to the aircraft and no special carry-on chair is available, etc..)"
+    },
+    "34f":{
+        "Repositioning of steps":" In case of incorrectly positioned steps"
+    },
+    "34g":{
+        "Other":" Explanation needed from Handling agent to responsible Ground Operations Manager"
     }
 }
