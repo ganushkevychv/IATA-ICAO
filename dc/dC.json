@@ -228,5 +228,119 @@
     },
     "34g":{
         "Other":" Explanation needed from Handling agent to responsible Ground Operations Manager"
+    },
+    "35":{
+        "AIRCRAFT CLEANING":" Code not to be used for cleaning done by the cabin crew (code 68)"
+    },
+    "35a":{
+        "Late compilation of scheduled cleaning":" Delay caused by the late compilation of scheduled cleaning"
+    },
+    "35b":{
+        "Extra cleaning requested due to improper initial cleaning":" Extra cleaning requested by crew due to improper initial cleaning"
+    },
+    "35c":{
+        "Extra cleaning requested due to other":" Extra cleaning requested by crew due to sick passenger or other reason when cleaning cannot be performed with the means available on-board"
+    },
+    "36":{
+        "FUELLING/DEFUELLING":" Fault of fuel supplier"
+    },
+    "36a":{
+        "Lack of equipment":" Delay caused by lack of fuelling equipment (tanker, steps, etc...)"
+    },
+    "36b":{
+        "Breakdown":"Delay caused by breakdown of fuelling equipment"
+    },
+    "36c":{
+        "Late at the aircraft":" Delay caused by late availability of fuel (late at the aircraft, late connection to the aircraft, etc...)"
+    },
+    "36d":{
+        "New truck required":" New fuel truck needed due to current one’s capacity is insufficient"
+    },
+    "36e":{
+        "Defuelling":" In case of defueling needed due to fueller’s fault"
+    },
+    "37":{
+        "CATERING":" Late delivery or loading"
+    },
+    "37a":{
+        "Late compilation – schedule":" Late compilation of scheduled delivery or loading"
+    },
+    "38b":{
+        "Extra uplift":" Extra uplift requested by WIZZ OPS (if crew requests code 68 shall be used)"
+    },
+    "37c":{
+        "Late compilation – ground time":" Late compilation of scheduled delivery or loading due to insufficient ground time"
+    },
+    "39":{
+        "TECHNICAL EQUIPMENT":" Lack of or breakdown of technical equipment, late at the aircraft"
+    },
+    "39a":{
+        "Pushback, towing, towbar":" Explanation needed from Handling agent to responsible Ground Operations Manager"
+    },
+    "39b":{
+        "GPU":" Explanation needed from Handling agent to responsible Ground Operations Manager":"" 
+    },
+    "39c":{
+        "Air starter":" Explanation needed from Handling agent to responsible Ground Operations Manager"
+    },
+    "39d":{
+        "De-icing":" Explanation needed from Handling agent to responsible Ground Operations Manager"
+    },
+    "39e":{
+        "Air conditioning":" Explanation needed from Handling agent to responsible Ground Operations Manager"
+    },
+    "39f":{
+        "Other":" Explanation needed from Handling agent to responsible Ground Operations Manager"
+    },
+    "41":{
+        "AIRCRAFT DEFECTS":" Aircraft defects identified on site"
+    },
+    "42":{
+        "SCHEDULED MAINTENANCE, late release":" Late release from scheduled maintenance"
+    },
+    "42a":{
+        "Short ground time - technical":" Short ground time - unable to perform the scheduled check due to planned technical ground time"
+    },
+    "42b":{
+        "Maintenance error":" MX provider was unable to hand over the aircraft on time due their fault"
+    },
+    "43":{
+        "NON-SCHEDULED MAINTENANCE":" Special checks and/or additional works beyond normal maintenance schedule (not to be used for checks required by code 51-52 reasons)"
+    },
+    "43a":{
+        "Lack of local staff – non mx":" For non-maintenance stations where staff has to be sent from other location"
+    },
+    "43b":{
+        "Lack of staff – mx":" Maintenance stations with lack of manpower"
+    },
+    "44":{
+        "SPARES AND MAINTENANCE EQUIPMENT":" Lack of spares or breakdown maintenance equipment"
+    },
+    "44a":{
+        "Lack of spares":" No spares available"
+    },
+    "44b":{
+        "Lack of/breakdown of maintenance equipment":" Delay caused by lack of/breakdown of maintenance equipment"
+    },
+    "44c":{
+        "Late delivery of spare(s)":" Spare parts were ordered but delivery was late"
+    },
+    "45":{
+        "AOG SPARES TO BE CARRIED TO OTHER STATIONS":" AOG spare parts to be carried to another station"  
+    },
+    "45a":{
+        "Late delivery to the aircraft":" Delay caused by late delivery of AOG spares to the aircraft"
+    },
+    "45b":{
+        "Late documentation":" Delay caused by late receipt of documentation of AOG spares, which delayed the release of the aircraft back to service"
+    },
+    "45c":{
+        "Incorrect documentation":" Delay caused by incorrect documentation of AOG spare parts, which delayed the release of the aircraft back to service"
+    },
+    "46":{
+        "AIRCRAFT CHANGE – technical":" AIRCRAFT CHANGE for technical reasons only – others see 51H or 52L"
+    },
+    "46a":{
+        "First recovery flight only":" To be used for first recovery flight only. (after code 41-43) Any other flight concerned: see 90F"
     }
 }
