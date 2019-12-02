@@ -6,7 +6,7 @@ fetch("/dc/dC.json")
   searchFunc = () => {
     let getResultDiv = document.getElementById("result");
     let dC = document.getElementById("dC").value;
-    getResultDiv.innerHTML = "Result: " + Object.entries(obj[dC.toLowerCase()]);
+    getResultDiv.innerHTML = Object.entries(obj[dC.toLowerCase()]);
     if (dC in obj)
     // checks if json is present and contains necessary values
     emptyForm = () => {
