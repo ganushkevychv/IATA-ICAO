@@ -342,5 +342,158 @@
     },
     "46a":{
         "First recovery flight only":" To be used for first recovery flight only. (after code 41-43) Any other flight concerned: see 90F"
+    },
+    "51":{
+        "DAMAGE DURING FLIGHT OPERATIONS":" Any damage while aircraft moves under own engine power"
+    },
+    "51a":{
+        "Bird strike":" Damage caused by Bird strike"
+    },
+    "51b":{
+        "Lightning strike":" Damage caused by Lightning strike"
+    },
+    "51c":{
+        "Hard of overweight landing":" Damage caused by hard of overweight landing"
+    },
+    "51d":{
+        "Severe weather conditions / Turbulence":" Damage caused by Severe weather conditions / Turbulence"
+    },
+    "51e":{
+        "Collision during taxi":" Damage caused by collision during taxi"
+    },
+    "51f":{
+        "FOD damage":" Foreign Object Damage during taxi (Tire) or cargo compartment contamination (Spillage)"
+    },
+    "51g":{
+        "Maintenance and/or aircraft change after damage during flight operations":" Maintenance and/or aircraft change after damage during flight operations (e.g. wheel change caused by FOD during taxiing, mandatory Bird strike inspection after Bird strike)"
+    },
+    "51h":{
+        "Other (explanation needed)":" None of the cases above, detailed explanation needed"
+    },
+    "52":{
+        "DAMAGE DURING GROUND OPERATIONS":" Any damage during ground operations when aircraft is dispatched from the ground"
+    },
+    "52a":{
+        "Collision":" Collision other than taxi"
+    },
+    "52b":{
+        "Push back, towing":" Damage caused by pushback equipment or during push back/towing"
+    },
+    "52c":{
+        "Loading equipment":" Damage caused by loading equipment: belt loader, baggage truck/trolley, etc."
+    },
+    "52d":{
+        "Air bridge":" Damage caused by air bridge"
+    },
+    "52e":{
+        "Steps":" Damage caused by steps (improper positioning, step failure, etc.)"
+    },
+    "52f":{
+        "Fuel equipment":" Damage caused by fuelling equipment (improper positioning, failure, etc.)"
+    },
+    "52g":{
+        "Technical support equipment":" Damage caused by GPU, ASU, ACU, water/waste truck, etc... other than listed above"
+    },
+    "52h":{
+        "Catering equipment":" Damage caused by catering equipment, e.g. during loading/un-loading, etc."
+    },
+    "52i":{
+        "Contamination, adverse weather":" Damage caused by contamination on the stands or in compartments. Damage caused by adverse weather"
+    },
+    "52j":{
+        "Maintenance and/or aircraft change during ground operations":" Maintenance and/or aircraft change after damage during ground operations"
+    },
+    "52k":{
+        "Accidental slide deployment":" Accidental escape slide deployment done by ground handling/maintenance staff. Use code 68 if done by flight crew"
+    },
+    "52l":{
+        "Other":" None of the cases above, detailed explanation needed"
+    },
+    "55":{
+        "DEPARTURE CONTROL":" Failure of Departure Control System (DCS)"
+    },
+    "55a":{
+        "Own system":" Wizz Air’s own system failure"
+    },
+    "55b":{
+        "Other system":" Failure of DCS system other than provided by Wizz Air"
+    },
+    "56":{
+        "CARGO PREPARATION/DOCUMENTATION":""
+    },
+    "56a":{
+        "Local equipment failure":" In case of flight delayed due to time needed for handling special request of Wizz Air – urgent CO-Mail handling, etc."
+    },
+    "57":{
+        "FLIGHT PLANS":" In case of flight delayed due to time needed to flight plan delivered to cockpit"
+    },
+    "57a":{
+        "Local equipment failure":" Wizz Air’s own local equipment’s failure"
+    },
+    "58":{
+        "OTHER AUTOMATED EQUIPMENT FAILURE":" Other automated system’s failure, none of the above cases"
+    },
+    "59":{
+        "TABLET PC, LACK OF ONBOARD DOCUMENTATION":" In case of Tablet PCs’ breakdown/malfunction; or if any airline operations’ related information causes delay"
+    },
+    "60":{
+        "LATE DEPARTURE PROCEDURE":" Delay caused by late departure procedure. Seek advice from Flight Crew"
+    },
+    "60a":{
+        "Additional briefing":" Additional briefing needed for performance verification"
+    },
+    "60b":{
+        "Additional checks":" Additional checks needed: e.g. headcount, door, slide, etc."
+    },
+    "60c":{
+        "Lack of space for accepted hand baggage":" Passengers slow to settle/embark/disembark due to lack of space for accepted hand baggage. (e.g. too many clothes of passengers at winter season)"
+    },
+    "60d":{
+        "Incorrect parking position":" Pilot’s fault (re-positioning of aircraft etc... due to improper parking of the aircraft)"
+    },
+    "60e":{
+        "Other":" None of the above cases, detailed explanation needed"
+    },
+    "61":{
+        "FLIGHT PLAN":" Late compilation or change of flight documentation"
+    },
+    "62":{
+        "OPERATIONAL REQUIREMENTS":""
+    },
+    "62a":{
+        "Fuel":" In case of significant amounts of fuel to be uplifted"
+    },
+    "62b":{
+        "Load alteration":" Delay caused by load alteration requested by Flight Crew or Wizz Air OPS"
+    },
+    "62c":{
+        "Hot brakes":" In case of brake failure. (code 2D to be used in case of brake cooling off period)"
+    },
+    "62d":{
+        "Other":" None of the cases above, explanation needed"
+    },
+    "63":{
+        "LATE CREW BOARDING":" Late crew boarding for other reason than connection"
+    },
+    "63a":{
+        "Flight deck (pilots)":" Pilot’s late boarding"
+    },
+    "63b":{
+        "Full crew":" Late boarding of full flight crew (cabin and cockpit)"
+    },
+    "64":{
+        "FLIGHT CREW SHORTAGE":" Sickness, awaiting stand-by, flight time limitations, crew meals, valid visa, and health documents etc."
+    },
+    "65":{
+        "FLIGHT DECK CREW SPECIAL REQUEST":" Flight Deck’s – pilots – special request not within operational requirements"
+    },
+    "65a":{
+        "Refueling refusal – training":" Must be used if headset is available for refueling and procedure is allowed but “refused” by flight crew due to training, extra briefing, etc."
+    },
+    "65b":{
+"Refueling refusal – no explanation":" procedure is allowed but “refused” by flight crew without"
+    },
+    "65c":{
+        "Other":" None of the cases above, explanation needed"
     }
 }
