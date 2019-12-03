@@ -495,5 +495,246 @@
     },
     "65c":{
         "Other":" None of the cases above, explanation needed"
+    },
+    "66":{
+        "LATE CABIN CREW BOARDING":""
+    },
+    "66a":{
+        "Crew swap, long handover of duties":" Delay caused by long handover of duties and/or crew swap"
+    },
+    "66b":{
+        "Security checks – training":" Late security check completion due to training purposes"
+    },
+    "66c":{
+        "Other":" None of the cases above, explanation needed"
+    },
+    "67":{
+        "CABIN CREW SHORTAGE":" Delay caused by insufficient number of cabin crewmembers onboard"
+    },
+    "67a":{
+        "Awaiting stand by crew":" Delay caused by awaiting stand by crew"
+    },
+    "67b":{
+        "Sickness":" Delay caused by (sudden) sickness of cabin crew"
+    },
+    "67c":{
+        "Flight time limitations":" Delay caused by Flight and Duty time limitations of cabin crew member(s)"
+    },
+    "67d":{
+        "Other":" None of the cases above, explanation needed"
+    },
+    "68":{
+        "CABIN CREW ERROR OR SPECIAL REQUEST":" Delay caused by fault of cabin crew or special request "
+    },
+    "69":{
+        "CAPTAIN REQUEST FOR SECURITY CHECK":" Captain’s request for extraordinary security check"
+    },
+    "71":{
+        "DEPARTURE STATION":" Delayed caused by unfavorable weather of departure station. Code to be used when handling has been finished and the aircraft is ready for departure and waiting for weather improvement"
+    },
+    "71a":{
+        "Low visibility":" Delay caused by low visibility at the departure airport"
+    },
+    "71b":{
+        "Thunderstorm":" Delay caused by severe weather - thunderstorm - at the departure airport. No to be used if handling procedure was delayed due to weather (code 77)"
+    },
+    "71c":{
+        "Snow, Braking action":" Delay caused by snow, contamination, poor or insufficient braking action at the departure airport"
+    },
+    "71d":{
+        "Other":" None of the cases above, explanation needed"
+    },
+    "72":{
+        "DESTINATION STATION":" Delayed caused by unfavorable weather of destination station"
+    },
+    "73":{
+        "EN-ROUTE OR ALTERNATE":" Delayed caused by unfavorable weather en-route or at an alternate airport"
+    },
+    "75":{
+        "DE-ICING OF AIRCRAFT":" Delay caused by the deicing of the aircraft. Removal of ice and/or snow, frost prevention. Excluding lack of/late/unserviceable equipment"
+    },
+    "75a":{
+        "Deicing progress":" Deicing progress cannot be accomplished at the time of STD"
+    },
+    "75b":{
+        "Waiting for Deicing in the queue":" Deicing cannot be accomplished immediately after doors closed due to number of aircrafts waiting in the queue for deicing"
+    },
+    "75c":{
+        "Late deicing":" Deicing performed later than doors closed"
+    },
+    "75d":{
+        "Refilling of trucks":" Delay caused by insufficient amount of deicing fluid in the deicing trucks. Refill needed"
+    },
+    "75e":{
+        "Repeated Deicing due to expired Hold Over Time":" Deicing shall be repeated due to expired Hold Over Time before departure"
+    },
+    "76":{
+        "REMOVAL OF SNOW, ICE, WATER AND SAND FROM AIRPORT":" Delay caused by contamination removal from airport areas"
+    },
+    "77":{
+        "GROUND HANDLING IMPAIRED BY ADVERSE WEATHER CONDITIONS":" Delay caused by adverse weather conditions at the departure airport"
+    },
+    "77a":{
+        "Airport / Handling limitations":" Delay caused by adverse weather conditions which have limitation on airport movements and/or handling services"
+        },
+        "77b":{
+            "Aircraft / Airline limitations":" Delay caused by adverse weather conditions which have limitation on aircraft and/or airline performance"
+        },
+        "80":{
+            "MISSED ATC SLOT":" Delay caused by missed ATC slot"
+        },
+        "81":{
+            "ATFM DUE TO ATC EN-ROUTE DEMAND/CAPACITY":" Delay caused by “standard” demand/capacity problems of ATC thus Slot time allocation"
+        },
+        "81a":{
+            "Waiting for slot":" Slot is after STD"
+        },
+        "81b":{
+            "Too short slot":" Time to “catch” CTOT is less then turnaround time. (e.g.aircraft late inbound)"
+        },
+        "81c":{
+            "Slot not advised by Handling / ATC":" Slot time was not told to Flight Crew"
+        },
+        "82":{
+            "ATFM DUE TO ATC STAFF/EQUIPMENT EN-ROUTE":" Delay caused by Slot time allocated due to ATC staff/equipment en-route, reduced capacity by industrial action or staff shortage or equipment failure, extraordinary demand due to capacity or reduction in neighboring area"
+        },
+        "83":{
+            "ATFM DUE TO RESTRICTIONS AT DESTINATION AIRPORT":" Delay caused by Slot time allocated due to airport and/or runway closed due to obstruction, industrial action, staff shortage, political unrest, noise abatement, night curfew, special flights"
+        },
+        "84":{
+            "ATFM DUE TO WEATHER AT DESTINATION":" Delay caused by Slot time allocated due to weather conditions at destination airport"
+        },
+        "85":{
+            "MANDATORY SECURITY":" Delay caused by Mandatory security checks performed. If not all security lanes are manned. If all lanes are manned but delays still occur due to queues then code 87D is used. NOT to be used for offloading of missing passengers"
+        },
+        "85a":{
+            "Congestion at security area":" Delay caused by congestion at the security area"
+        },
+        "85b":{
+            "Terminal evacuation/limitation due to bomb/fire alarm":" Delay caused by mandatory security checks conducted due to bomb/fire alarm"
+        },
+        "85c":{
+            "Other":" None of the cases above, explanation needed"
+        },
+        "86":{
+            "IMMIGRATION, CUSTOMS, HEALTH":" Delay caused by governmental services"
+        },
+        "86a":{
+            "Immigration":" Delay caused by authority needs/demands or lack of staff"
+        },
+        "86b":{
+            "INAD":" Delay caused by handling inadmissible passenger(s)"
+        },
+        "86c":{
+            "Insufficient travel documents":" Delay caused by insufficient travel documents of passengers"
+        },
+        "86d":{
+            "Congestion at passport-control / boarder-police":" Delay caused by crowd formed at passport control-area"
+        },
+        "86e":{
+            "Other":" None of the cases above, explanation needed"
+        },
+        "87":{
+            "AIRPORT FACILITIES":" Delay caused by airport facilities: lack of/breakdown/congestion/etc"
+        },
+        "87a":{
+            "Ramp congestion":" Crowded ramp, blockage of aircraft and/or GSE movements"
+        },
+        "87b":{
+            "Lightings or buildings":" Delay caused by restrictions/limitations on lighting or buildings"
+        },
+        "87c":{
+            "Jetbridge":" Jetbridge INOP or breakdown"
+        },
+        "87d":{
+            "Congestion at security area":" Delay caused by congestion at security area despite all security lanes are open"
+        },
+        "88":{
+            "RESTRICTIONS AT DESTINATION AIRPORT":" Delay caused by restrictions at destination airport"
+        },
+        "88a":{
+            "Airport and/or runway closure":" Delay caused by airport and/or runway closure at the destination airport independently of being published or not, but known before departure"
+        },
+        "88b":{
+            "Staff shortage/strike":" Delay caused by staff shortage/strike at destination station"
+        },
+        "88c":{
+            "Night curfew":" Delay caused by night curfew at the destination station"
+        },
+        "88d":{
+            "Other":" None of the cases above, explanation needed (e.g special flights, industrial action, political unrest, noise abatement, etc..)"
+        },
+        "89":{
+            "RESTRICTIONS AT AIRPORT OF DEPARTURE WITH OR WITHOUT ATFM RESTRICTIONS":" Delay caused by restrictions at departure airport with or without ATFM restrictions: including Air Traffic Services, start up and push back, airport and/or runway closed due to obstruction or weather (restriction due to weather in case of ATFM regulation only, else refer to code 71), industrial action, staff shortage, political unrest, noise abatement, night curfew, special flights"
+        },
+        "89a":{
+            "With ATFM restrictions":" Slot time allocated for departure due to airport facilities"
+        },
+        "89b":{
+            "Without ATFM restrictions":" No slot time was allocated for departure, e.g taxiway limitations due to constructions"
+        },
+        "89c":{
+            "Engine run-up restrictions":" Engine run-up restrictions on scheduled and on-time flights. (e.g specific stands, noise abattement, etc..)"
+        },
+        "91":{
+            "LOAD CONNECTION":" Delay caused by awaiting load from another flight (deadload, co-mail, etc.)"
+        },
+        "92":{
+            "THROUGH CHECK-IN ERROR":" Through check-in error of passenger and/or baggage"
+        },
+        "93":{
+            "AIRCRAFT ROTATION/REACTIONARY":" Late arrival of incoming aircraft from previous sector"
+        },
+        "93a":{
+            "Late departure":" Late arrival to destination due to late departure from origin station"
+        },
+        "93b":{
+            "ATC procedure":" Late arrival due to ATC procedure during flight"
+        },
+        "93c":{
+            "Holding":" Late arrival due to holding during flight"
+        },
+        "93d":{
+            "Weather":" Late arrival due to weather during flight (e.g. flight path modification, holding, etc.)"
+        },
+        "93e":{
+            "Technical":" Late arrival due to technical issues during flight"
+        },
+        "93f":{
+            "Technical, Short ground time – income":" Short ground time - unable to perform the scheduled check due to late incoming of aircraft"
+        },
+        "94":{
+            "CABIN CREW ROTATION":" Delay caused by awaiting Cabin Crew from another flight. Use 66A if long handover procedure"
+        },
+        "95":{
+            "CREW ROTATION":" Delay caused by awaiting crew from another flight (Flight Deck or entire flight crew)"
+        },
+        "95a":{
+            "Entire Crew":" Entire crew late due to rotation"
+        },
+        "95b":{
+            "Flight Deck":" Only Flight Deck crew late due to rotation"
+        },
+        "96":{
+            "OPERATIONS CONTROL":" Delay caused by Wizz Air operational decision. Re-routing, diversion, consolidation, aircraft change for reasons other than technical"
+        },
+        "96a":{
+            "Diversion":" Diversion with no additional information from Wizz Air OPS"
+        },
+        "96b":{
+            "Aircraft change":" Aircraft change due to operational reasons"
+        },
+        "96c":{
+            "Diversion – operational":" Diversion for operational reasons"
+        },
+        "97":{
+            "INDUSTRIAL ACTION WITHIN OWN AIRLINE":""
+        },
+        "98":{
+            "INDUSTRIAL ACTION OUTSIDE OWN AIRLINE":""
+        },
+        "99":{
+            "NOT ELSEWHERE SPECIFIED":" None of the delay codes/subcodes above, explanation needed"
+        }
     }
-}
+
