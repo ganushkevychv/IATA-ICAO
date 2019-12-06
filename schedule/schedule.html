@@ -9,7 +9,13 @@
 </head>
 <body>
     <input type="file" name="files[]" id="fileUpload">
+    <div id="pdfViewer">
+        <canvas id="pdfRenderer"></canvas>
+    </div>
         <a href="/index.html" class="backLink">Back</a>
+        <script src="/schedule/pdf.js"></script>
+        <script src="/schedule/pdf.worker.js"></script>
         <script src="/schedule/simple.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/1.9.426/pdf.min.js"></script>
 </body>
 </html>
