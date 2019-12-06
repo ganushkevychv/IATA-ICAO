@@ -9,11 +9,22 @@
 
   function handleFileUpload(event) {
     let file = event.target.files[0];
-    reader.readAsArrayBuffer(file);
+    reader.readAsDataURL(file);
   }
 
   function handleFileRead(event) {
-    typedArray = new Uint8Array(event.target.result);
+    localStorage.setItem(fileKey, event.target.result);
+
+    displayPdf();
+  }
+
+  function displayPdf() {
+    let fromStorage = localStorage.getItem(fileKey);
+
+        if (!fromStorage) return;
+
+
+    typedArray = new Uint8Array(convertDataURIToBinary(fromStorage));
     pdfjsLib.getDocument(typedArray)
       .promise
       .then(pdf => {
@@ -42,12 +53,29 @@
         });
       });
   }
+
+  displayPdf();
+
+
+  
+
+function convertDataURIToBinary(dataURI) {
+  let BASE64_MARKER = ';base64,';
+  let base64Index = dataURI.indexOf(BASE64_MARKER) + BASE64_MARKER.length;
+  let base64 = dataURI.substring(base64Index);
+  let raw = window.atob(base64);
+  let rawLength = raw.length;
+  let array = new Uint8Array(new ArrayBuffer(rawLength));
+
+  for(i = 0; i < rawLength; i++) {
+    array[i] = raw.charCodeAt(i);
+  }
+  return array;
+}
 })();
 
 
 
 
-
- 
 
  
