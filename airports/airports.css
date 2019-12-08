@@ -12,3 +12,9 @@ body {
     border-radius: 4px;
     text-decoration: none;
 }
+a { 
+  text-decoration: none;
+ }
+ a:hover { 
+  text-decoration: underline;
+ }

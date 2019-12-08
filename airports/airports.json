@@ -1,0 +1,33 @@
+{
+    "tia":{
+        "Albania":"Tirana International Airport Nënë Tereza (TIA) HTTP://WWW.TIRANA-AIRPORT.COM"
+    },
+    "vie":{
+        "Austria":"Vienna International Airport (VIE) HTTPS://WWW.VIENNAAIRPORT.COM"
+    },
+    "gyd":{
+        "Azerbaijan":"Baku Airport (GYD) HTTP://WWW.AIRPORT.AZ"
+    },
+    "bru":{
+        "Belgium":"Brussels Airport (BRU) https://www.brusselsairport.be/"
+    },
+    "crl":{
+        "Belgium":"Brussels Charleroi Airport (CRL) HTTP://WWW.CHARLEROI-AIRPORT.COM"
+    },
+    "sjj":{
+        "Bosnia and Herzegovina":"Sarajevo International Airport (SJJ) HTTP://WWW.SARAJEVO-AIRPORT.BA"
+    },
+    "tzl":{
+        "Bosnia and Herzegovina":"Tuzla Airport (TZL) HTTP://TUZLA-AIRPORT.BA/"
+    },
+    "boj":{
+        "Bulgaria":"<a href='https://burgas-airport.bg/'> Bourgas Airport (BOJ)</a>"
+    },
+    "sof":{
+        "Bulgaria":"<a href='http://www.sofia-airport.bg/'> Sofia Airport - Terminal 1 (SOF)</a>"
+    },
+    "var":{
+        "Bulgaria":"<a href='http://www.varna-airport.bg'> Varna Airport (VAR)</a>"
+    }
+
+}   
