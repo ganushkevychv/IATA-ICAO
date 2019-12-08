@@ -112,6 +112,89 @@
     },
     "nue":{
         "Germany":"<a href='https://www.airport-nuernberg.de/en'> Nuremberg Airport (NUE)</a>"
+    },
+    "ath":{
+        "Greece":"<a href='https://www.aia.gr/traveler/'> Athens International Airport (ATH)</a>"
+    },
+    "cfu":{
+        "Greece":"<a href='https://www.corfu-airport.com/'> Corfu Airport (CFU)</a>"
+    },
+    "her":{
+        "Greece":"<a href='http://www.heraklion-airport.info'> Heraklion Airport (HER)</a>"
+    },
+    "rho":{
+        "Greece":"<a href='https://www.rho-airport.gr/en/'> Rhodes Airport (RHO)</a>"
+    },
+    "skg":{
+        "Greece":"<a href='http://www.thessalonikiairport.com'> Thessaloniki Airport (SKG)</a>"
+    },
+    "zth":{
+        "Greece":"<a href='http://zante.gr'> Zakynthos Airport (ZTH)</a>"
+    },
+    "bud":{
+        "Hungary":"<a href='https://www.bud.hu/'> Budapest Airport - Terminal 2 (BUD)</a>"
+    },
+    "deb":{
+        "Hungary":"<a href='https://www.debrecenairport.com/hu'> Debrecen Airport (DEB)</a>"
+    },
+    "kef":{
+        "Iceland":"<a href='https://www.isavia.is/en/keflavik-airport'> Reykjavik Airport (KEF)</a>"
+    },
+    "etm":{
+        "Israel":"<a href='http://www.ramon-airport.com'> Ramon Airport (ETM)</a>"
+    },
+    "tlv":{
+        "Israel":"<a href='https://www.iaa.gov.il/en-US/airports/BenGurion/Pages/default.aspx'> Tel-Aviv Ben Gurion (TLV)</a>"
+    },
+    "cta":{
+        "Italy":"<a href='http://www.aeroporto.catania.it'> Catania Fontanarossa Airport (CTA)</a>"
+    },
+    "aho":{
+        "Italy":"<a href='https://www.aeroportodialghero.it/'> Alghero Airport (AHO)</a>"
+    },
+    "bri":{
+        "Italy":"<a href='https://www.aeroportidipuglia.it/'> Bari Airport (BRI)</a>"
+    },
+    "blq":{
+        "Italy":"<a href='https://www.bologna-airport.it/en/welcome-to-bologna-airport/?idC=62175'> Bologna Airport (BLQ)</a>"
+    },
+    "suf":{
+        "Italy":"<a href='https://lameziaairport.it/'> Lamezia Terme (SUF)</a>"
+    },
+    "mxp":{
+        "Italy":"<a href='https://www.milanomalpensa-airport.com/en/'> Milan Malpensa Airport - Terminal 1 (MXP)</a>"
+    },
+    "nap":{
+        "Italy":"<a href='http://www.aeroportodinapoli.it'> Naples Airport (NAP)</a>"
+    },
+    "peg":{
+        "Italy":"<a href='https://www.airport.umbria.it/en/home-en'> Perugia Airport (PEG)   </a>"
+    },
+    "psr":{
+        "Italy":"<a href='http://www.abruzzoairport.com'> Pescara Airport (PSR)</a>"
+    },
+    "psa":{
+        "Italy":"<a href='https://www.pisa-airport.com/en/'> Pisa Airport (PSA)</a>"
+    },
+    "fco":{
+        "Italy":"<a href='http://www.adr.it/web/aeroporti-di-roma-en-/pax-fco-fiumicino'> Rome Fiumicino Airport - Terminal 2 (FCO)</a>"
+    },
+    "trn":{
+        "Italy":"<a href='https://www.aeroportoditorino.it/en'> Turin Airport (TRN)</a>"
+    },
+    "tsf":{
+        "Italy":"<a href='https://www.trevisoairport.it/'> Venice Treviso Airport (TSF)</a>"
+    },
+    "vrn":{
+        "Italy":"<a href='https://www.aeroportoverona.it/en/'> Verona Airport (VRN)</a>"
+    },
+    "bgy":{
+        "Italy":"<a href='https://www.airport-bergamo.com/'> Bergamo Airport (BGY)</a>"
+    },
+    "tse":{
+        "Kazakhstan":"<a href='http://astanaairport.com/'> Nursultan Nazarbayev International Airport (TSE)</a>"
+    },
+    "prn":{
+        "Kosovo":"<a href='http://www.airportpristina.com/'> Pristina International Airport (PRN)</a>"
     }
-
 }   
