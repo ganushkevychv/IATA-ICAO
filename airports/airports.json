@@ -1,6 +1,6 @@
 {
     "tia":{
-        "Albania":"<a href='http://www.tirana-airport.com'> Tirana International Airport Nënë Tereza (TIA)</a> "
+        "Albania":"<a href='http://www.tirana-airport.com'> Tirana International Airport Nënë Tereza (TIA)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/41d3319d82/tirana/' data-label_1='TIRANA' data-label_2='WEATHER' data-theme='dark' >TIRANA WEATHER</a>"
     },
     "vie":{
         "Austria":"<a href='https://www.viennaairport.com'> Vienna International Airport (VIE)</a>"
