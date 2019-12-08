@@ -3,70 +3,70 @@
         "Albania":"<a href='http://www.tirana-airport.com'> Tirana International Airport Nënë Tereza (TIA)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/41d3319d82/tirana/' data-label_1='TIRANA' data-label_2='WEATHER' data-theme='dark' >TIRANA WEATHER</a>"
     },
     "vie":{
-        "Austria":"<a href='https://www.viennaairport.com'> Vienna International Airport (VIE)</a>"
+        "Austria":"<a href='https://www.viennaairport.com'> Vienna International Airport (VIE)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/48d2116d37/vienna/' data-label_1='VIENNA' data-label_2='WEATHER' data-theme='dark' >VIENNA WEATHER</a>"
     },
     "gyd":{
-        "Azerbaijan":"<a href='http://www.airport.az'> Baku Airport (GYD)</a> "
+        "Azerbaijan":"<a href='http://www.airport.az'> Baku Airport (GYD)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/40d4149d87/baku/' data-label_1='BAKU' data-label_2='WEATHER' data-theme='dark' >BAKU WEATHER</a>"
     },
     "bru":{
-        "Belgium":"<a href='https://www.brusselsairport.be/'> Brussels Airport (BRU)</a> "
+        "Belgium":"<a href='https://www.brusselsairport.be/'> Brussels Airport (BRU)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/50d854d35/brussels/' data-label_1='BRUSSELS' data-label_2='WEATHER' data-theme='dark' >BRUSSELS WEATHER</a>"
     },
     "crl":{
-        "Belgium":"<a href='http://www.charleroi-airport.com'> Brussels Charleroi Airport (CRL)</a>"
+        "Belgium":"<a href='http://www.charleroi-airport.com'> Brussels Charleroi Airport (CRL)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/50d854d35/brussels/' data-label_1='BRUSSELS' data-label_2='WEATHER' data-theme='dark' >BRUSSELS WEATHER</a>"
     },
     "sjj":{
-        "Bosnia and Herzegovina":"<a href='http://www.sarajevo-airport.ba'> Sarajevo International Airport (SJJ)</a>"
+        "Bosnia and Herzegovina":"<a href='http://www.sarajevo-airport.ba'> Sarajevo International Airport (SJJ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/43d8618d41/sarajevo/' data-label_1='SARAJEVO' data-label_2='WEATHER' data-theme='dark' >SARAJEVO WEATHER</a>"
     },
     "tzl":{
-        "Bosnia and Herzegovina":"<a href='http://tuzla-airport.ba/'> Tuzla Airport (TZL)</a>"
+        "Bosnia and Herzegovina":"<a href='http://tuzla-airport.ba/'> Tuzla Airport (TZL)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/44d5418d67/tuzla/' data-label_1='TUZLA' data-label_2='WEATHER' data-theme='dark' >TUZLA WEATHER</a>"
     },
     "boj":{
-        "Bulgaria":"<a href='https://burgas-airport.bg/'> Bourgas Airport (BOJ)</a>"
+        "Bulgaria":"<a href='https://burgas-airport.bg/'> Bourgas Airport (BOJ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d5027d46/burgas/' data-label_1='BOURGAS' data-label_2='WEATHER' data-theme='dark' >BOURGAS WEATHER</a>"
     },
     "sof":{
-        "Bulgaria":"<a href='http://www.sofia-airport.bg/'> Sofia Airport - Terminal 1 (SOF)</a>"
+        "Bulgaria":"<a href='http://www.sofia-airport.bg/'> Sofia Airport - Terminal 1 (SOF)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d7023d32/sofia/' data-label_1='SOFIA' data-label_2='WEATHER' data-theme='dark' >SOFIA WEATHER</a>"
     },
     "var":{
-        "Bulgaria":"<a href='http://www.varna-airport.bg'> Varna Airport (VAR)</a>"
+        "Bulgaria":"<a href='http://www.varna-airport.bg'> Varna Airport (VAR)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/43d2127d91/varna/' data-label_1='VARNA' data-label_2='WEATHER' data-theme='dark' >VARNA WEATHER</a>"
     },
     "osi":{
-        "Croatia":"<a href='http://www.osijek-airport.hr/'> Osijek (OSI)</a>"
+        "Croatia":"<a href='http://www.osijek-airport.hr/'> Osijek (OSI)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/45d5518d70/osijek/' data-label_1='OSIJEK' data-label_2='WEATHER' data-theme='dark' >OSIJEK WEATHER</a>"
     },
     "spu":{
-        "Croatia":"<a href='http://www.split-airport.hr'> Split Airport (SPU)</a>"
+        "Croatia":"<a href='http://www.split-airport.hr'> Split Airport (SPU)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/43d5116d44/split/' data-label_1='SPLIT' data-label_2='WEATHER' data-theme='dark' >SPLIT WEATHER</a>"
     },
     "lca":{
-        "Cyprus":"<a href='http://www.hermesairports.com'> Larnaca Airport (LCA)</a>"
+        "Cyprus":"<a href='http://www.hermesairports.com'> Larnaca Airport (LCA)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/34d9033d62/larnaca/' data-label_1='LARNACA' data-label_2='WEATHER' data-theme='dark' >LARNACA WEATHER</a>"
     },
     "brq":{
-        "Czech Republic":"<a href='http://www.brno-airport.cz'> Brno Airport (BRQ)</a>"
+        "Czech Republic":"<a href='http://www.brno-airport.cz'> Brno Airport (BRQ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/49d2016d61/brno/' data-label_1='BRNO' data-label_2='WEATHER' data-theme='dark' >BRNO WEATHER</a>"
     },
     "prg":{
-        "Czech Republic":"<a href='https://www.prg.aero/en#/'> Prague Airport (PRG)</a>"
+        "Czech Republic":"<a href='https://www.prg.aero/en#/'> Prague Airport (PRG)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/50d0814d44/prague/' data-label_1='PRAGUE' data-label_2='WEATHER' data-theme='dark' >PRAGUE WEATHER</a>"
     },
     "bll":{
-        "Denmark":"<a href='https://www.bll.dk/da-dk'> Billund Airport (BLL)</a>"
+        "Denmark":"<a href='https://www.bll.dk/da-dk'> Billund Airport (BLL)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/55d739d11/billund/' data-label_1='BILLUND' data-label_2='WEATHER' data-theme='dark' >BILLUND WEATHER</a>"
     },
     "cph":{
-        "Denmark":"<a href='https://www.cph.dk/en/'> Copenhagen Airport (CPH)</a>"
+        "Denmark":"<a href='https://www.cph.dk/en/'> Copenhagen Airport (CPH)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/55d6812d57/copenhagen/' data-label_1='COPENHAGEN' data-label_2='WEATHER' data-theme='dark' >COPENHAGEN WEATHER</a>"
     },
     "tll":{
-        "Estonia":"<a href='https://www.tallinn-airport.ee/en/'> Tallinn Airport (TLL)</a>"
+        "Estonia":"<a href='https://www.tallinn-airport.ee/en/'> Tallinn Airport (TLL)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/59d4424d75/tallinn/' data-label_1='TALLINN' data-label_2='WEATHER' data-theme='dark' >TALLINN WEATHER</a>"
     },
     "tku":{
-        "Finland":"<a href='https://www.finavia.fi/en'> Turku Airport (TKU)</a>"
+        "Finland":"<a href='https://www.finavia.fi/en'> Turku Airport (TKU)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/60d4522d27/turku/' data-label_1='TURKU' data-label_2='WEATHER' data-theme='dark' >TURKU WEATHER</a>"
     },
     "mlh":{
-        "France":"<a href='https://www.euroairport.com/en/'> Mulhouse-Freiburg Airport (MLH)</a>"
+        "France":"<a href='https://www.euroairport.com/en/'> Mulhouse-Freiburg Airport (MLH)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/47d567d59/basel/' data-label_1='BASEL' data-label_2='WEATHER' data-theme='dark' >BASEL WEATHER</a>"   
     },
     "bod":{
-        "France":"<a href='https://www.bordeaux.aeroport.fr/en'> Bordeaux–Mérignac Airport (BOD)</a>"
+        "France":"<a href='https://www.bordeaux.aeroport.fr/en'> Bordeaux–Mérignac Airport (BOD)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/44d84n0d58/bordeaux/' data-label_1='BORDEAUX' data-label_2='WEATHER' data-theme='dark' >BORDEAUX WEATHER</a>"
     },
     "gnb":{
-        "France":"<a href='http://www.grenoble-airport.com'> Grenoble Airport (GNB)</a>"
+        "France":"<a href='http://www.grenoble-airport.com'> Grenoble Airport (GNB)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/45d195d72/grenoble/' data-label_1='GRENOBLE' data-label_2='WEATHER' data-theme='dark' >GRENOBLE WEATHER</a>"
     },
     "lys":{
-        "France":"<a href='https://www.lyonaeroports.com/'> Lyon (Saint-Exupéry) Airport (LYS)</a>"
+        "France":"<a href='https://www.lyonaeroports.com/'> Lyon (Saint-Exupéry) Airport (LYS)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/45d764d84/lyon/' data-label_1='LYON' data-label_2='WEATHER' data-theme='dark' >LYON WEATHER</a>"
     },
     "nce":{
         "France":"<a href='https://en.nice.aeroport.fr/'> Nice Airport (NCE)</a>"

@@ -1,0 +1,1 @@
+<a class='weatherwidget-io' href='https://forecast7.com/en/42d7023d32/sofia/' data-label_1='SOFIA' data-label_2='WEATHER' data-theme='original' >SOFIA WEATHER</a>
