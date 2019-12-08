@@ -1,24 +1,24 @@
 {
     "tia":{
-        "Albania":"Tirana International Airport Nënë Tereza (TIA) HTTP://WWW.TIRANA-AIRPORT.COM"
+        "Albania":"<a href='http://www.tirana-airport.com'> Tirana International Airport Nënë Tereza (TIA)</a> "
     },
     "vie":{
-        "Austria":"Vienna International Airport (VIE) HTTPS://WWW.VIENNAAIRPORT.COM"
+        "Austria":"<a href='https://www.viennaairport.com'> Vienna International Airport (VIE)</a>"
     },
     "gyd":{
-        "Azerbaijan":"Baku Airport (GYD) HTTP://WWW.AIRPORT.AZ"
+        "Azerbaijan":"<a href='http://www.airport.az'> Baku Airport (GYD)</a> "
     },
     "bru":{
-        "Belgium":"Brussels Airport (BRU) https://www.brusselsairport.be/"
+        "Belgium":"<a href='https://www.brusselsairport.be/'> Brussels Airport (BRU)</a> "
     },
     "crl":{
-        "Belgium":"Brussels Charleroi Airport (CRL) HTTP://WWW.CHARLEROI-AIRPORT.COM"
+        "Belgium":"<a href='http://www.charleroi-airport.com'> Brussels Charleroi Airport (CRL)</a>"
     },
     "sjj":{
-        "Bosnia and Herzegovina":"Sarajevo International Airport (SJJ) HTTP://WWW.SARAJEVO-AIRPORT.BA"
+        "Bosnia and Herzegovina":"<a href='http://www.sarajevo-airport.ba'> Sarajevo International Airport (SJJ)</a>"
     },
     "tzl":{
-        "Bosnia and Herzegovina":"Tuzla Airport (TZL) HTTP://TUZLA-AIRPORT.BA/"
+        "Bosnia and Herzegovina":"<a href='http://tuzla-airport.ba/'> Tuzla Airport (TZL)</a>"
     },
     "boj":{
         "Bulgaria":"<a href='https://burgas-airport.bg/'> Bourgas Airport (BOJ)</a>"
@@ -28,6 +28,90 @@
     },
     "var":{
         "Bulgaria":"<a href='http://www.varna-airport.bg'> Varna Airport (VAR)</a>"
+    },
+    "osi":{
+        "Croatia":"<a href='http://www.osijek-airport.hr/'> Osijek (OSI)</a>"
+    },
+    "spu":{
+        "Croatia":"<a href='http://www.split-airport.hr'> Split Airport (SPU)</a>"
+    },
+    "lca":{
+        "Cyprus":"<a href='http://www.hermesairports.com'> Larnaca Airport (LCA)</a>"
+    },
+    "brq":{
+        "Czech Republic":"<a href='http://www.brno-airport.cz'> Brno Airport (BRQ)</a>"
+    },
+    "prg":{
+        "Czech Republic":"<a href='https://www.prg.aero/en#/'> Prague Airport (PRG)</a>"
+    },
+    "bll":{
+        "Denmark":"<a href='https://www.bll.dk/da-dk'> Billund Airport (BLL)</a>"
+    },
+    "cph":{
+        "Denmark":"<a href='https://www.cph.dk/en/'> Copenhagen Airport (CPH)</a>"
+    },
+    "tll":{
+        "Estonia":"<a href='https://www.tallinn-airport.ee/en/'> Tallinn Airport (TLL)</a>"
+    },
+    "tku":{
+        "Finland":"<a href='https://www.finavia.fi/en'> Turku Airport (TKU)</a>"
+    },
+    "mlh":{
+        "France":"<a href='https://www.euroairport.com/en/'> Mulhouse-Freiburg Airport (MLH)</a>"
+    },
+    "bod":{
+        "France":"<a href='https://www.bordeaux.aeroport.fr/en'> Bordeaux–Mérignac Airport (BOD)</a>"
+    },
+    "gnb":{
+        "France":"<a href='http://www.grenoble-airport.com'> Grenoble Airport (GNB)</a>"
+    },
+    "lys":{
+        "France":"<a href='https://www.lyonaeroports.com/'> Lyon (Saint-Exupéry) Airport (LYS)</a>"
+    },
+    "nce":{
+        "France":"<a href='https://en.nice.aeroport.fr/'> Nice Airport (NCE)</a>"
+    },
+    "bva":{
+        "France":"<a href='https://www.aeroportparisbeauvais.com/passagers/'> Paris Beauvais Airport (BVA)</a>"
+    },
+    "kut":{
+        "Georgia":"<a href='http://www.kutaisi.aero'> Kutaisi Airport (KUT)</a>"
+    },
+    "sxf":{
+        "Germany":"<a href='https://www.berlin-airport.de/en/travellers-sxf/index.php'> Berlin Schoenefeld Airport (SXF)</a>"
+    },
+    "bre":{
+        "Germany":"<a href='https://www.bremen-airport.com/en/nc/'> Bremen Airport (BRE)</a>"
+    },
+    "cgn":{
+        "Germany":"<a href='http://www.koeln-bonn-airport.de'> Cologne Airport (CGN)</a>"
+    },
+    "dtm":{
+        "Germany":"<a href='https://www.dortmund-airport.com/'> Dortmund Airport (DTM)</a>"
+    },
+    "fra":{
+        "Germany":"<a href='https://www.frankfurt-airport.com/en.html'> Frankfurt International Airport (FRA)</a>"
+    },
+    "fdh":{
+        "Germany":"<a href='https://www.bodensee-airport.eu/'> Friedrichshafen Airport (FDH)</a>"
+    },
+    "ham":{
+        "Germany":"<a href='https://www.hamburg-airport.de/en/index.php'> Hamburg Airport (HAM)</a>"
+    },
+    "haj":{
+        "Germany":"<a href='https://www.hannover-airport.de/index.php?id=4360&L=1'> Hanover (HAJ)</a>"
+    },
+    "fkb":{
+        "Germany":"<a href='https://www.baden-airpark.de/'> Karlsruhe/Baden-Baden Airport (FKB)</a>"
+    },
+    "lej":{
+        "Germany":"<a href='https://www.leipzig-halle-airport.de/en/'> Leipzig/Halle Airport (LEJ)</a>"
+    },
+    "fmm":{
+        "Germany":"<a href='https://www.allgaeu-airport.de/'> Memmingen/Munich West Airport (FMM)</a>"
+    },
+    "nue":{
+        "Germany":"<a href='https://www.airport-nuernberg.de/en'> Nuremberg Airport (NUE)</a>"
     }
 
 }   
