@@ -364,5 +364,122 @@
     },
     "alc":{
         "Spain":"<a href='http://www.aena.es/es/pasajeros/pasajeros.html'> Alicante Airport (ALC)</a>"
+    },
+    "bcn":{
+        "Spain":"<a href='http://www.aena.es/en/barcelona-airport/index.html'> Barcelona Airport - Terminal 2 (BCN)</a>"
+    },
+    "cdt":{
+        "Spain":"<a href='https://www.turismodecastellon.com/en/'> Castellón (CDT)</a>"
+    },
+    "fue":{
+        "Spain":"<a href='http://www.aena.es/en/fuerteventura-airport/index.html'> Fuerteventura (Canary Islands) Airport (FUE)</a>"
+    },
+    "ibz":{
+        "Spain":"<a href='https://ibizaairport.org/'> Ibiza Airport (IBZ)</a>"
+    },
+    "ace":{
+        "Spain":"<a href='https://www.lanzarote-airport.net/'> Lanzarote (Canary Islands) Airport (ACE)</a>"
+    },
+    "mad":{
+        "Spain":"<a href='http://www.aena.es/en/madrid-barajas-airport/index.html'> Madrid Airport - Terminal 1 (MAD)</a>"
+    },
+    "agp":{
+        "Spain":"<a href='https://www.airport-malaga.com/'> Malaga Airport (AGP)</a>"
+    },
+    "pmi":{
+        "Spain":"<a href='http://www.aena.es/en/palma-mallorca-airport/index.html'> Palma de Mallorca Airport (PMI)</a>"
+    },
+    "sdr":{
+        "Spain":"<a href='http://www.aena.es/en/santander-airport/index.html'> Santander (SDR)</a>"
+    },
+    "svq":{
+        "Spain":"<a href='https://www.sevilla-airport.com/en/'> Seville Airport (SVQ)</a>"
+    },
+    "tfs":{
+        "Spain":"<a href='http://www.aena.es/en/tenerife-sur-airport/index.html'> Tenerife Airport (TFS)</a>"
+    },
+    "vlc":{
+        "Spain":"<a href='http://www.aena.es/en/valencia-airport/index.html'> Valencia Manises Airport (VLC)</a>"
+    },
+    "zaz":{
+        "Spain":"<a href='http://www.zaragoza-airport.com/en/index.php'> Zaragoza Airport (ZAZ)</a>"
+    },
+    "got":{
+        "Sweden":"<a href='https://www.swedavia.com/landvetter'> Gothenburg Landvetter Airport (GOT)</a>"
+    },
+    "gse":{
+        "Sweden":"<a href='https://www.saveflygplats.com/'> Gothenburg City Airport (GSE)</a>"
+    },
+    "mmx":{
+        "Sweden":"<a href='https://www.swedavia.com/malmo/'> Malmö Airport (MMX)</a>"
+    },
+    "nyo":{
+        "Sweden":"<a href='https://www.skavsta.se/en/'> Stockholm Skavsta Airport (NYO)</a>"
+    },
+    "vxo":{
+        "Sweden":"<a href='https://smalandairport.se/'> Vaxjo (VXO)</a>"
+    },
+    "mlh":{
+        "Switzerland":"<a href='http://www.euroairport.com/'> Mulhouse-Freiburg Airport (MLH)</a>"
+    },
+    "bsl":{
+        "Switzerland":"<a href='https://www.euroairport.com/en/'> Basel-Mulhouse-Freiburg Airport (BSL)</a>"
+    },
+    "gva":{
+        "Switzerland":"<a href='http://www.gva.ch/en/DesktopDefault.aspx'> Geneva Airport (GVA)</a>"
+    },
+    "hrk":{
+        "Ukraine":"<a href='https://hrk.aero/en'> Kharkiv International Airport (HRK)</a>"
+    },
+    "kbp":{
+        "Ukraine":"<a href='https://kbp.aero/en/'> Boryspil International Airport (KBP)</a>"
+    },
+    "iev":{
+        "Ukraine":"<a href='https://iev.aero/en/'> Kyiv Zhulyany Airport (IEV)</a>"
+    },
+    "lwo":{
+        "Ukraine":"<a href='https://lwo.aero/'> Lviv Danylo Halytskyi International Airport (LWO)</a>"
+    },
+    "ods":{
+        "Ukraine":"<a href='https://odesa.aero/'> Odesa International Airport (ODS)</a>"
+    },
+    "ozh":{
+        "Ukraine":"<a href='https://ozh.aero/en/'> Zaporizhzhya International Airport (OZH)</a>"
+    },
+    "dwc":{
+        "United Arab Emirates":"<a href='http://www.dubaiairports.ae/corporate/about-us/dwc-dubai-world-central'> Dubai Airport (DWC)</a>"
+    },
+    "abz":{
+        "United Kingdom":"<a href='https://www.aberdeenairport.com/'> Aberdeen Airport (ABZ)</a>"
+    },
+    "bfs":{
+        "United Kingdom":"<a href='http://www.belfastairport.com/'> Belfast (BFS)</a>"
+    },
+    "bhx":{
+        "United Kingdom":"<a href='https://birminghamairport.co.uk/'> Birmingham Airport (BHX)</a>"
+    },
+    "brs":{
+        "United Kingdom":"<a href='http://www.bristolairport.co.uk/'> Bristol Airport (BRS)</a>"
+    },
+    "dsa":{
+        "United Kingdom":"<a href='http://flydsa.co.uk/'> Doncaster/Sheffield Airport (DSA)</a>"
+    },
+    "edi":{
+        "United Kingdom":"<a href='https://www.edinburghairport.com/'> Edinburgh Airport (EDI)</a>"
+    },
+    "gla":{
+        "United Kingdom":"<a href='https://www.glasgowairport.com/'> Glasgow International Airport (GLA)</a>"
+    },
+    "lpl":{
+        "United Kingdom":"<a href='https://www.liverpoolairport.com/'> Liverpool Airport (LPL)</a>"
+    },
+    "sen":{
+        "United Kingdom":"<a href='https://southendairport.com/'> London Southend Airport (SEN)</a>"
+    },
+    "lgw":{
+        "United Kingdom":"<a href='https://www.gatwickairport.com/'> London Gatwick (LGW)</a>"
+    },
+    "ltn":{
+        "United Kingdom":"<a href='https://www.london-luton.co.uk/'> London Luton Airport (LTN)</a>"
     }
 }   
