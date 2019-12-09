@@ -111,90 +111,90 @@
         "Germany":"<a href='https://www.allgaeu-airport.de/'> Memmingen/Munich West Airport (FMM)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/48d1411d58/munich/' data-label_1='MUNICH' data-label_2='WEATHER' data-theme='dark' >MUNICH WEATHER</a>"
     },
     "nue":{
-        "Germany":"<a href='https://www.airport-nuernberg.de/en'> Nuremberg Airport (NUE)</a>"
+        "Germany":"<a href='https://www.airport-nuernberg.de/en'> Nuremberg Airport (NUE)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/49d4511d08/nuremberg/' data-label_1='NUREMBERG' data-label_2='WEATHER' data-theme='dark' >NUREMBERG WEATHER</a>"
     },
     "ath":{
-        "Greece":"<a href='https://www.aia.gr/traveler/'> Athens International Airport (ATH)</a>"
+        "Greece":"<a href='https://www.aia.gr/traveler/'> Athens International Airport (ATH)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/37d9823d73/athens/' data-label_1='ATHENS' data-label_2='WEATHER' data-theme='dark' >ATHENS WEATHER</a>"
     },
     "cfu":{
-        "Greece":"<a href='https://www.corfu-airport.com/'> Corfu Airport (CFU)</a>"
+        "Greece":"<a href='https://www.corfu-airport.com/'> Corfu Airport (CFU)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/39d6219d92/corfu/' data-label_1='CORFU' data-label_2='WEATHER' data-theme='dark' >CORFU WEATHER</a>"
     },
     "her":{
-        "Greece":"<a href='http://www.heraklion-airport.info'> Heraklion Airport (HER)</a>"
+        "Greece":"<a href='http://www.heraklion-airport.info'> Heraklion Airport (HER)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/35d3425d14/heraklion/' data-label_1='HERAKLION' data-label_2='WEATHER' data-theme='dark' >HERAKLION WEATHER</a>"
     },
     "rho":{
-        "Greece":"<a href='https://www.rho-airport.gr/en/'> Rhodes Airport (RHO)</a>"
+        "Greece":"<a href='https://www.rho-airport.gr/en/'> Rhodes Airport (RHO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/36d4328d22/rhodes/' data-label_1='RHODES' data-label_2='WEATHER' data-theme='dark' >RHODES WEATHER</a>"
     },
     "skg":{
-        "Greece":"<a href='http://www.thessalonikiairport.com'> Thessaloniki Airport (SKG)</a>"
+        "Greece":"<a href='http://www.thessalonikiairport.com'> Thessaloniki Airport (SKG)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/40d6422d94/thessaloniki/' data-label_1='THESSALONIKI' data-label_2='WEATHER' data-theme='dark' >THESSALONIKI WEATHER</a>"
     },
     "zth":{
-        "Greece":"<a href='http://zante.gr'> Zakynthos Airport (ZTH)</a>"
+        "Greece":"<a href='http://zante.gr'> Zakynthos Airport (ZTH)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/37d7920d90/zakinthos/' data-label_1='ZAKYNTHOS' data-label_2='WEATHER' data-theme='dark' >ZAKYNTHOS WEATHER</a>"
     },
     "bud":{
-        "Hungary":"<a href='https://www.bud.hu/'> Budapest Airport - Terminal 2 (BUD)</a>"
+        "Hungary":"<a href='https://www.bud.hu/'> Budapest Airport - Terminal 2 (BUD)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/47d5019d04/budapest/' data-label_1='BUDAPEST' data-label_2='WEATHER' data-theme='dark' >BUDAPEST WEATHER</a>"
     },
     "deb":{
-        "Hungary":"<a href='https://www.debrecenairport.com/hu'> Debrecen Airport (DEB)</a>"
+        "Hungary":"<a href='https://www.debrecenairport.com/hu'> Debrecen Airport (DEB)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/47d5321d63/debrecen/' data-label_1='DEBRECEN' data-label_2='WEATHER' data-theme='dark' >DEBRECEN WEATHER</a>"
     },
     "kef":{
-        "Iceland":"<a href='https://www.isavia.is/en/keflavik-airport'> Reykjavik Airport (KEF)</a>"
+        "Iceland":"<a href='https://www.isavia.is/en/keflavik-airport'> Reykjavik Airport (KEF)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/64d13n21d82/reykjavik/' data-label_1='REYKJAVÍK' data-label_2='WEATHER' data-theme='dark' >REYKJAVÍK WEATHER</a>"
     },
     "etm":{
-        "Israel":"<a href='http://www.ramon-airport.com'> Ramon Airport (ETM)</a>"
+        "Israel":"<a href='http://www.ramon-airport.com'> Ramon Airport (ETM)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/29d5634d95/eilat/' data-label_1='EILAT' data-label_2='WEATHER' data-theme='dark' >EILAT WEATHER</a>"
     },
     "tlv":{
-        "Israel":"<a href='https://www.iaa.gov.il/en-US/airports/BenGurion/Pages/default.aspx'> Tel-Aviv Ben Gurion (TLV)</a>"
+        "Israel":"<a href='https://www.iaa.gov.il/en-US/airports/BenGurion/Pages/default.aspx'> Tel-Aviv Ben Gurion (TLV)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/32d0934d78/tel-aviv-yafo/' data-label_1='TEL AVIV' data-label_2='WEATHER' data-theme='dark' >TEL AVIV WEATHER</a>"
     },
     "cta":{
-        "Italy":"<a href='http://www.aeroporto.catania.it'> Catania Fontanarossa Airport (CTA)</a>"
+        "Italy":"<a href='http://www.aeroporto.catania.it'> Catania Fontanarossa Airport (CTA)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/37d6114d94/province-of-catania/' data-label_1='CATANIA' data-label_2='WEATHER' data-theme='dark' >CATANIA WEATHER</a>"
     },
     "aho":{
-        "Italy":"<a href='https://www.aeroportodialghero.it/'> Alghero Airport (AHO)</a>"
+        "Italy":"<a href='https://www.aeroportodialghero.it/'> Alghero Airport (AHO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/40d568d32/alghero/' data-label_1='ALGHERO' data-label_2='WEATHER' data-theme='dark' >ALGHERO WEATHER</a>"
     },
     "bri":{
-        "Italy":"<a href='https://www.aeroportidipuglia.it/'> Bari Airport (BRI)</a>"
+        "Italy":"<a href='https://www.aeroportidipuglia.it/'> Bari Airport (BRI)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/41d1216d87/bari/' data-label_1='BARI' data-label_2='WEATHER' data-theme='dark' >BARI WEATHER</a>"
     },
     "blq":{
-        "Italy":"<a href='https://www.bologna-airport.it/en/welcome-to-bologna-airport/?idC=62175'> Bologna Airport (BLQ)</a>"
+        "Italy":"<a href='https://www.bologna-airport.it/en/welcome-to-bologna-airport/?idC=62175'> Bologna Airport (BLQ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/44d5011d30/metropolitan-city-of-bologna/' data-label_1='BOLOGNA' data-label_2='WEATHER' data-theme='dark' >BOLOGNA WEATHER</a>"
     },
     "suf":{
-        "Italy":"<a href='https://lameziaairport.it/'> Lamezia Terme (SUF)</a>"
+        "Italy":"<a href='https://lameziaairport.it/'> Lamezia Terme (SUF)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/38d9616d31/lamezia-terme/' data-label_1='LAMEZIA TERME' data-label_2='WEATHER' data-theme='dark' >LAMEZIA TERME WEATHER</a>"
     },
     "mxp":{
-        "Italy":"<a href='https://www.milanomalpensa-airport.com/en/'> Milan Malpensa Airport - Terminal 1 (MXP)</a>"
+        "Italy":"<a href='https://www.milanomalpensa-airport.com/en/'> Milan Malpensa Airport - Terminal 1 (MXP)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/45d469d19/milan/' data-label_1='MILANO' data-label_2='WEATHER' data-theme='dark' >MILANO WEATHER</a>"
     },
     "nap":{
-        "Italy":"<a href='http://www.aeroportodinapoli.it'> Naples Airport (NAP)</a>"
+        "Italy":"<a href='http://www.aeroportodinapoli.it'> Naples Airport (NAP)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/40d8514d27/naples/' data-label_1='NAPLES' data-label_2='WEATHER' data-theme='dark' >NAPLES WEATHER</a>"
     },
     "peg":{
-        "Italy":"<a href='https://www.airport.umbria.it/en/home-en'> Perugia Airport (PEG)   </a>"
+        "Italy":"<a href='https://www.airport.umbria.it/en/home-en'> Perugia Airport (PEG)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d9412d62/province-of-perugia/' data-label_1='PERUGIA' data-label_2='WEATHER' data-theme='dark' >PERUGIA WEATHER</a>"
     },
     "psr":{
-        "Italy":"<a href='http://www.abruzzoairport.com'> Pescara Airport (PSR)</a>"
+        "Italy":"<a href='http://www.abruzzoairport.com'> Pescara Airport (PSR)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d3613d96/province-of-pescara/' data-label_1='PESCARA' data-label_2='WEATHER' data-theme='dark' >PESCARA WEATHER</a>"
     },
     "psa":{
-        "Italy":"<a href='https://www.pisa-airport.com/en/'> Pisa Airport (PSA)</a>"
+        "Italy":"<a href='https://www.pisa-airport.com/en/'> Pisa Airport (PSA)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/43d7210d40/province-of-pisa/' data-label_1='PISA' data-label_2='WEATHER' data-theme='dark' >PISA WEATHER</a>"
     },
     "fco":{
-        "Italy":"<a href='http://www.adr.it/web/aeroporti-di-roma-en-/pax-fco-fiumicino'> Rome Fiumicino Airport - Terminal 2 (FCO)</a>"
+        "Italy":"<a href='http://www.adr.it/web/aeroporti-di-roma-en-/pax-fco-fiumicino'> Rome Fiumicino Airport - Terminal 2 (FCO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/41d9012d50/rome/' data-label_1='ROME' data-label_2='WEATHER' data-theme='dark' >ROME WEATHER</a>"
     },
     "trn":{
-        "Italy":"<a href='https://www.aeroportoditorino.it/en'> Turin Airport (TRN)</a>"
+        "Italy":"<a href='https://www.aeroportoditorino.it/en'> Turin Airport (TRN)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/45d077d69/turin/' data-label_1='TURIN' data-label_2='WEATHER' data-theme='dark' >TURIN WEATHER</a>"
     },
     "tsf":{
-        "Italy":"<a href='https://www.trevisoairport.it/'> Venice Treviso Airport (TSF)</a>"
+        "Italy":"<a href='https://www.trevisoairport.it/'> Venice Treviso Airport (TSF)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/45d4912d42/metropolitan-city-of-venice/' data-label_1='VENICE' data-label_2='WEATHER' data-theme='dark' >VENICE WEATHER</a>"
     },
     "vrn":{
-        "Italy":"<a href='https://www.aeroportoverona.it/en/'> Verona Airport (VRN)</a>"
+        "Italy":"<a href='https://www.aeroportoverona.it/en/'> Verona Airport (VRN)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/45d4410d99/verona/' data-label_1='VERONA' data-label_2='WEATHER' data-theme='dark' >VERONA WEATHER</a>"
     },
     "bgy":{
-        "Italy":"<a href='https://www.airport-bergamo.com/'> Bergamo Airport (BGY)</a>"
+        "Italy":"<a href='https://www.airport-bergamo.com/'> Bergamo Airport (BGY)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/45d869d88/province-of-bergamo/' data-label_1='BERGAMO' data-label_2='WEATHER' data-theme='dark' >BERGAMO WEATHER</a>"
     },
     "tse":{
-        "Kazakhstan":"<a href='http://astanaairport.com/'> Nursultan Nazarbayev International Airport (TSE)</a>"
+        "Kazakhstan":"<a href='http://astanaairport.com/'> Nursultan Nazarbayev International Airport (TSE)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/51d1671d47/astana/' data-label_1='NUR-SULTAN' data-label_2='WEATHER' data-theme='dark' >NUR-SULTAN WEATHER</a>"
     },
     "prn":{
-        "Kosovo":"<a href='http://www.airportpristina.com/'> Pristina International Airport (PRN)</a>"
+        "Kosovo":"<a href='http://www.airportpristina.com/'> Pristina International Airport (PRN)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d6621d17/prishtina/' data-label_1='PRIŞTINA' data-label_2='WEATHER' data-theme='dark' >PRIŞTINA WEATHER</a>"
     }
 }   
