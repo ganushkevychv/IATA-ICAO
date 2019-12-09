@@ -196,5 +196,47 @@
     },
     "prn":{
         "Kosovo":"<a href='http://www.airportpristina.com/'> Pristina International Airport (PRN)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d6621d17/prishtina/' data-label_1='PRIŞTINA' data-label_2='WEATHER' data-theme='dark' >PRIŞTINA WEATHER</a>"
+    },
+    "rix":{
+        "Latvia":"<a href='http://www.riga-airport.com/en'> Riga Airport (RIX)</a>"
+    },
+    "kun":{
+        "Lithuania":"<a href='https://www.kaunas-airport.lt/en/'> Kaunas Airport (KUN)</a>"
+    },
+    "plq":{
+        "Lithuania":"<a href='https://www.palanga-airport.lt/en'> Palanga – Klaipeda Airport (PLQ)</a>"
+    },
+    "vno":{
+        "Lithuania":"<a href='https://www.vilnius-airport.lt/en/'> Vilnius Airport (VNO)</a>"
+    },
+    "mla":{
+        "Malta":"<a href='https://www.maltairport.com/'> Malta Airport (MLA)</a>"
+    },
+    "kiv":{
+        "Moldova":"<a href='http://www.airport.md/homepage-en/'> Chisinau Airport (KIV)</a>"
+    },
+    "tgd":{
+        "Montenegro":"<a href='http://www.montenegroairports.com/eng/'> Podgorica Airport (TGD)</a>"
+    },
+    "aga":{
+        "Morocco":"<a href='http://www.agadir-airport.com/en/index.php'> Agadir Al Massira Airport (AGA)</a>"
+    },
+    "rak":{
+        "Morocco":"<a href='https://www.marrakesh-airport.com/'> Menara Airport (RAK)</a>"
+    },
+    "ein":{
+        "Netherlands":"<a href='https://www.eindhovenairport.nl/en'> Eindhoven Airport (EIN)</a>"
+    },
+    "grq":{
+        "Netherlands":"<a href='https://www.groningenairport.nl/en/'> Groningen Airport (GRQ)</a>"
+    },
+    "mst":{
+        "Netherlands":"<a href='https://www.maa.nl/nl/pagina-niet-gevonden'> Maastricht Airport (MST)</a>"
+    },
+    "ohd":{
+        "North Macedonia":"<a href='http://ohd.airports.com.mk/default.aspx?ItemID=345'> Ohrid Airport (OHD)</a>"
+    },
+    "skp":{
+        "North Macedonia":"<a href='http://skp.airports.com.mk/default.aspx?ItemID=345'> Skopje Airport (SKP)</a>"
     }
 }   
