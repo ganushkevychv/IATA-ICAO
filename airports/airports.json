@@ -238,6 +238,35 @@
     },
     "skp":{
         "North Macedonia":"<a href='http://skp.airports.com.mk/default.aspx?ItemID=345'> Skopje Airport (SKP)</a>"
+    },
+    "aes":{
+        "Norway":"<a href='https://avinor.no/en/airport/alesund-airport/'> Alesund Airport (AES)</a>"
+    },
+    "bgo":{
+        "Norway":"<a href='https://avinor.no/en/airport/bergen-airport/'> Bergen Airport (BGO)</a>"
+    },
+    "boo":{
+        "Norway":"<a href='https://avinor.no/en/airport/bodo-airport/'> Bodø (BOO)</a>"
+    },
+    "hau":{
+        "Norway":"<a href='https://flyhau.no/en/'> Haugesund Airport (HAU)</a>"
+    },
+    "mol":{
+        "Norway":"<a href='https://avinor.no/en/airport/molde-airport/'> Molde Airport (MOL)</a>"
+    },
+    "osl":{
+        "Norway":"<a href='https://avinor.no/en/airport/oslo-airport/'> Oslo airport (OSL)</a>"
+    },
+    "trf":{
+        "Norway":"<a href='https://www.torp.no/'> Oslo Sandefjord Torp Airport (TRF)</a>"
+    },
+    "svg":{
+        "Norway":"<a href='https://avinor.no/en/airport/stavanger-airport/'> Stavanger Airport (SVG)</a>"
+    },
+    "tos":{
+        "Norway":"<a href='https://avinor.no/en/airport/tromso-airport/'> Tromso Airport (TOS)</a>"
+    },
+    "trd":{
+        "Norway":"<a href='https://avinor.no/en/airport/trondheim-airport/'> Trondheim Airport (TRD)</a>"
     }
-
 }   
