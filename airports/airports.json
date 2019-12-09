@@ -268,5 +268,101 @@
     },
     "trd":{
         "Norway":"<a href='https://avinor.no/en/airport/trondheim-airport/'> Trondheim Airport (TRD)</a>"
+    },
+    "gdn":{
+        "Poland":"<a href='https://www.airport.gdansk.pl/'> Gdansk Airport (GDN)</a>"
+    },
+    "ktw":{
+        "Poland":"<a href='https://www.katowice-airport.com/en'> Katowice Airport (KTW))</a>"
+    },
+    "krk":{
+        "Poland":"<a href='http://krakowairport.pl/blog/en/category/podroze/zoom/'> Kraków Airport (KRK)</a>"
+    },
+    "luz":{
+        "Poland":"<a href='https://www.airport.lublin.pl/en/'> Lublin Airport (LUZ)</a>"
+    },
+    "szy":{
+        "Poland":"<a href='http://mazuryairport.pl/en/'> Olsztyn-Mazury Airport (SZY)</a>"
+    },
+    "poz":{
+        "Poland":"<a href='https://www.airport-poznan.com.pl/en/'> Poznan Airport (POZ)</a>"
+    },
+    "szz":{
+        "Poland":"<a href='http://www.airport.com.pl/en/'> Szczecin Airport (SZZ)</a>"
+    },
+    "waw":{
+        "Poland":"<a href='https://www.lotnisko-chopina.pl/?lang=en'> Warsaw Chopin Airport (WAW)</a>"
+    },
+    "wro":{
+        "Poland":"<a href='http://airport.wroclaw.pl/en/'> Wroclaw Airport (WRO)</a>"
+    },
+    "fao":{
+        "Portugal":"<a href='https://www.aeroportofaro.pt/en/fao/home'> Faro (FAO)</a>"
+    },
+    "lis":{
+        "Portugal":"<a href='http://www.lisbon-airport.com/'> Lisbon Airport (LIS)</a>"
+    },
+    "opo":{
+        "Portugal":"<a href='http://www.porto-airport.com/'> Porto Airport (OPO)</a>"
+    },
+    "otp":{
+        "Romania":"<a href='http://www.bucharestairports.ro/index.php?lang=en'> Bucharest H. Coanda Airport (OTP)</a>"
+    },
+    "clj":{
+        "Romania":"<a href='http://airportcluj.ro/?id_limba=2'> Cluj-Napoca Airport (CLJ)</a>"
+    },
+    "cnd":{
+        "Romania":"<a href='http://www.mk-airport.ro/en'> Constanta Airport (CND)</a>"
+    },
+    "cra":{
+        "Romania":"<a href='http://www.aeroportcraiova.ro/'> Craiova Airport (CRA)</a>"
+    },
+    "ias":{
+        "Romania":"<a href='https://www.aeroport-iasi.ro/'> Iasi Airport (IAS)</a>"
+    },
+    "suj":{
+        "Romania":"<a href='https://www.aeroportulsatumare.ro/'> Satu Mare (SUJ)</a>"
+    },
+    "sbz":{
+        "Romania":"<a href='http://www.sibiuairport.ro/'> Sibiu Airport (SBZ)</a>"
+    },
+    "scv":{
+        "Romania":"<a href='https://www.aeroportsuceava.ro/en/'> Suceava Airport (SCV)</a>"
+    },
+    "tsr":{
+        "Romania":"<a href='http://aerotim.ro/'> Timisoara Airport (TSR)</a>"
+    },
+    "tgm":{
+        "Romania":"<a href='http://www.aeroportultransilvania.ro/'> Tirgu Mures Airport (TGM)</a>"
+    },
+    "kzn":{
+        "Russia":"<a href='http://www.kazan.aero/'> Kazan International Airport (KZN)</a>"
+    },
+    "vko":{
+        "Russia":"<a href='http://www.vnukovo.ru/en/'> Moscow Vnukovo Airport (VKO)</a>"
+    },
+    "led":{
+        "Russia":"<a href='https://pulkovoairport.ru/en/'> Saint Petersburg Airport (LED)</a>"
+    },
+    "beg":{
+        "Serbia":"<a href='https://beg.aero/lat'> Belgrade Airport (BEG)</a>"
+    },
+    "ini":{
+        "Serbia":"<a href='http://nis-airport.com/en/'> Niš Airport (INI)</a>"
+    },
+    "bts":{
+        "Slovakia":"<a href='https://www.bts.aero/en/'> Bratislava Airport (BTS)</a>"
+    },
+    "ksc":{
+        "Slovakia":"<a href='https://www.airportkosice.sk/'> Kosice Airport (KSC)</a>"
+    },
+    "tat":{
+        "Slovakia":"<a href='http://www.airport-poprad.sk/'> Poprad - Tatry Airport (TAT)</a>"
+    },
+    "lju":{
+        "Slovenia":"<a href='http://www.lju-airport.si/en/Main'> Ljubljana Airport (LJU)</a>"
+    },
+    "alc":{
+        "Spain":"<a href='http://www.aena.es/es/pasajeros/pasajeros.html'> Alicante Airport (ALC)</a>"
     }
 }   
