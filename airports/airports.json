@@ -198,115 +198,115 @@
         "Kosovo":"<a href='http://www.airportpristina.com/'> Pristina International Airport (PRN)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d6621d17/prishtina/' data-label_1='PRIŞTINA' data-label_2='WEATHER' data-theme='dark' >PRIŞTINA WEATHER</a>"
     },
     "rix":{
-        "Latvia":"<a href='http://www.riga-airport.com/en'> Riga Airport (RIX)</a>"
+        "Latvia":"<a href='http://www.riga-airport.com/en'> Riga Airport (RIX)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/56d9524d11/riga/' data-label_1='RIGA' data-label_2='WEATHER' data-theme='dark' >RIGA WEATHER</a>"
     },
     "kun":{
-        "Lithuania":"<a href='https://www.kaunas-airport.lt/en/'> Kaunas Airport (KUN)</a>"
+        "Lithuania":"<a href='https://www.kaunas-airport.lt/en/'> Kaunas Airport (KUN)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/54d9023d90/kaunas/' data-label_1='KAUNAS' data-label_2='WEATHER' data-theme='dark' >KAUNAS WEATHER</a>"
     },
     "plq":{
-        "Lithuania":"<a href='https://www.palanga-airport.lt/en'> Palanga – Klaipeda Airport (PLQ)</a>"
+        "Lithuania":"<a href='https://www.palanga-airport.lt/en'> Palanga – Klaipeda Airport (PLQ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/55d9221d07/palanga/' data-label_1='PALANGA' data-label_2='WEATHER' data-theme='dark' >PALANGA WEATHER</a>"
     },
     "vno":{
-        "Lithuania":"<a href='https://www.vilnius-airport.lt/en/'> Vilnius Airport (VNO)</a>"
+        "Lithuania":"<a href='https://www.vilnius-airport.lt/en/'> Vilnius Airport (VNO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/54d6925d28/vilnius/' data-label_1='VILNIUS' data-label_2='WEATHER' data-theme='dark' >VILNIUS WEATHER</a>"
     },
     "mla":{
-        "Malta":"<a href='https://www.maltairport.com/'> Malta Airport (MLA)</a>"
+        "Malta":"<a href='https://www.maltairport.com/'> Malta Airport (MLA)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/35d9414d38/malta/' data-label_1='REPUBLIC OF MALTA' data-label_2='WEATHER' data-theme='dark' >REPUBLIC OF MALTA WEATHER</a>"
     },
     "kiv":{
-        "Moldova":"<a href='http://www.airport.md/homepage-en/'> Chisinau Airport (KIV)</a>"
+        "Moldova":"<a href='http://www.airport.md/homepage-en/'> Chisinau Airport (KIV)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/47d0128d86/chisinau/' data-label_1='CHISINAU' data-label_2='WEATHER' data-theme='dark' >CHISINAU WEATHER</a>"
     },
     "tgd":{
-        "Montenegro":"<a href='http://www.montenegroairports.com/eng/'> Podgorica Airport (TGD)</a>"
+        "Montenegro":"<a href='http://www.montenegroairports.com/eng/'> Podgorica Airport (TGD)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d4319d26/podgorica/' data-label_1='PODGORICA' data-label_2='WEATHER' data-theme='dark' >PODGORICA WEATHER</a>"
     },
     "aga":{
-        "Morocco":"<a href='http://www.agadir-airport.com/en/index.php'> Agadir Al Massira Airport (AGA)</a>"
+        "Morocco":"<a href='http://www.agadir-airport.com/en/index.php'> Agadir Al Massira Airport (AGA)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/30d43n9d60/agadir/' data-label_1='AGADIR' data-label_2='WEATHER' data-theme='dark' >AGADIR WEATHER</a>"
     },
     "rak":{
-        "Morocco":"<a href='https://www.marrakesh-airport.com/'> Menara Airport (RAK)</a>"
+        "Morocco":"<a href='https://www.marrakesh-airport.com/'> Menara Airport (RAK)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/31d64n8d06/menara/' data-label_1='MENARA' data-label_2='WEATHER' data-theme='dark' >MENARA WEATHER</a>"
     },
     "ein":{
-        "Netherlands":"<a href='https://www.eindhovenairport.nl/en'> Eindhoven Airport (EIN)</a>"
+        "Netherlands":"<a href='https://www.eindhovenairport.nl/en'> Eindhoven Airport (EIN)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/51d445d47/eindhoven/' data-label_1='EINDHOVEN' data-label_2='WEATHER' data-theme='dark' >EINDHOVEN WEATHER</a>"
     },
     "grq":{
-        "Netherlands":"<a href='https://www.groningenairport.nl/en/'> Groningen Airport (GRQ)</a>"
+        "Netherlands":"<a href='https://www.groningenairport.nl/en/'> Groningen Airport (GRQ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/53d226d57/groningen/' data-label_1='GRONINGEN' data-label_2='WEATHER' data-theme='dark' >GRONINGEN WEATHER</a>"
     },
     "mst":{
-        "Netherlands":"<a href='https://www.maa.nl/nl/pagina-niet-gevonden'> Maastricht Airport (MST)</a>"
+        "Netherlands":"<a href='https://www.maa.nl/nl/pagina-niet-gevonden'> Maastricht Airport (MST)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/50d855d69/maastricht/' data-label_1='MAASTRICHT' data-label_2='WEATHER' data-theme='dark' >MAASTRICHT WEATHER</a>"
     },
     "ohd":{
-        "North Macedonia":"<a href='http://ohd.airports.com.mk/default.aspx?ItemID=345'> Ohrid Airport (OHD)</a>"
+        "North Macedonia":"<a href='http://ohd.airports.com.mk/default.aspx?ItemID=345'> Ohrid Airport (OHD)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/41d1220d80/ohrid/' data-label_1='OHRID' data-label_2='WEATHER' data-theme='dark' >OHRID WEATHER</a>"
     },
     "skp":{
-        "North Macedonia":"<a href='http://skp.airports.com.mk/default.aspx?ItemID=345'> Skopje Airport (SKP)</a>"
+        "North Macedonia":"<a href='http://skp.airports.com.mk/default.aspx?ItemID=345'> Skopje Airport (SKP)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d0021d43/skopje/' data-label_1='SKOPJE' data-label_2='WEATHER' data-theme='dark' >SKOPJE WEATHER</a>"
     },
     "aes":{
-        "Norway":"<a href='https://avinor.no/en/airport/alesund-airport/'> Alesund Airport (AES)</a>"
+        "Norway":"<a href='https://avinor.no/en/airport/alesund-airport/'> Alesund Airport (AES)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/62d476d15/alesund/' data-label_1='ALESUND' data-label_2='WEATHER' data-theme='dark' >ALESUND WEATHER</a>"
     },
     "bgo":{
-        "Norway":"<a href='https://avinor.no/en/airport/bergen-airport/'> Bergen Airport (BGO)</a>"
+        "Norway":"<a href='https://avinor.no/en/airport/bergen-airport/'> Bergen Airport (BGO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/60d395d32/bergen/' data-label_1='BERGEN' data-label_2='WEATHER' data-theme='dark' >BERGEN WEATHER</a>"
     },
     "boo":{
-        "Norway":"<a href='https://avinor.no/en/airport/bodo-airport/'> Bodø (BOO)</a>"
+        "Norway":"<a href='https://avinor.no/en/airport/bodo-airport/'> Bodø (BOO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/67d2814d40/bodo/' data-label_1='BODØ' data-label_2='WEATHER' data-theme='dark' >BODØ WEATHER</a>"
     },
     "hau":{
-        "Norway":"<a href='https://flyhau.no/en/'> Haugesund Airport (HAU)</a>"
+        "Norway":"<a href='https://flyhau.no/en/'> Haugesund Airport (HAU)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/59d415d27/haugesund/' data-label_1='HAUGESUND' data-label_2='WEATHER' data-theme='dark' >HAUGESUND WEATHER</a>"
     },
     "mol":{
-        "Norway":"<a href='https://avinor.no/en/airport/molde-airport/'> Molde Airport (MOL)</a>"
+        "Norway":"<a href='https://avinor.no/en/airport/molde-airport/'> Molde Airport (MOL)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/62d747d16/molde/' data-label_1='MOLDE' data-label_2='WEATHER' data-theme='dark' >MOLDE WEATHER</a>"
     },
     "osl":{
-        "Norway":"<a href='https://avinor.no/en/airport/oslo-airport/'> Oslo airport (OSL)</a>"
+        "Norway":"<a href='https://avinor.no/en/airport/oslo-airport/'> Oslo airport (OSL)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/59d9110d75/oslo/' data-label_1='OSLO' data-label_2='WEATHER' data-theme='dark' >OSLO WEATHER</a>"
     },
     "trf":{
-        "Norway":"<a href='https://www.torp.no/'> Oslo Sandefjord Torp Airport (TRF)</a>"
+        "Norway":"<a href='https://www.torp.no/'> Oslo Sandefjord Torp Airport (TRF)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/59d9110d75/oslo/' data-label_1='OSLO' data-label_2='WEATHER' data-theme='dark' >OSLO WEATHER</a>"
     },
     "svg":{
-        "Norway":"<a href='https://avinor.no/en/airport/stavanger-airport/'> Stavanger Airport (SVG)</a>"
+        "Norway":"<a href='https://avinor.no/en/airport/stavanger-airport/'> Stavanger Airport (SVG)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/58d975d73/stavanger/' data-label_1='STAVANGER' data-label_2='WEATHER' data-theme='dark' >STAVANGER WEATHER</a>"
     },
     "tos":{
-        "Norway":"<a href='https://avinor.no/en/airport/tromso-airport/'> Tromso Airport (TOS)</a>"
+        "Norway":"<a href='https://avinor.no/en/airport/tromso-airport/'> Tromso Airport (TOS)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/69d6518d96/tromso/' data-label_1='TROMSØ' data-label_2='WEATHER' data-theme='dark' >TROMSØ WEATHER</a>"
     },
     "trd":{
-        "Norway":"<a href='https://avinor.no/en/airport/trondheim-airport/'> Trondheim Airport (TRD)</a>"
+        "Norway":"<a href='https://avinor.no/en/airport/trondheim-airport/'> Trondheim Airport (TRD)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/63d4310d40/trondheim/' data-label_1='TRONDHEIM' data-label_2='WEATHER' data-theme='dark' >TRONDHEIM WEATHER</a>"
     },
     "gdn":{
-        "Poland":"<a href='https://www.airport.gdansk.pl/'> Gdansk Airport (GDN)</a>"
+        "Poland":"<a href='https://www.airport.gdansk.pl/'> Gdansk Airport (GDN)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/54d3518d65/gdansk/' data-label_1='GDAŃSK' data-label_2='WEATHER' data-theme='dark' >GDAŃSK WEATHER</a>"
     },
     "ktw":{
-        "Poland":"<a href='https://www.katowice-airport.com/en'> Katowice Airport (KTW))</a>"
+        "Poland":"<a href='https://www.katowice-airport.com/en'> Katowice Airport (KTW)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/50d2619d02/katowice/' data-label_1='KATOWICE' data-label_2='WEATHER' data-theme='dark' >KATOWICE WEATHER</a>"
     },
     "krk":{
-        "Poland":"<a href='http://krakowairport.pl/blog/en/category/podroze/zoom/'> Kraków Airport (KRK)</a>"
+        "Poland":"<a href='http://krakowairport.pl/blog/en/category/podroze/zoom/'> Krakow Airport (KRK)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/50d0619d94/krakow/' data-label_1='KRAKÓW' data-label_2='WEATHER' data-theme='dark' >KRAKÓW WEATHER</a>"
     },
     "luz":{
-        "Poland":"<a href='https://www.airport.lublin.pl/en/'> Lublin Airport (LUZ)</a>"
+        "Poland":"<a href='https://www.airport.lublin.pl/en/'> Lublin Airport (LUZ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/51d2522d57/lublin/' data-label_1='LUBLIN' data-label_2='WEATHER' data-theme='dark' >LUBLIN WEATHER</a>"
     },
     "szy":{
-        "Poland":"<a href='http://mazuryairport.pl/en/'> Olsztyn-Mazury Airport (SZY)</a>"
+        "Poland":"<a href='http://mazuryairport.pl/en/'> Olsztyn-Mazury Airport (SZY)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/53d7820d48/olsztyn/' data-label_1='OLSZTYN' data-label_2='WEATHER' data-theme='dark' >OLSZTYN WEATHER</a>"
     },
     "poz":{
-        "Poland":"<a href='https://www.airport-poznan.com.pl/en/'> Poznan Airport (POZ)</a>"
+        "Poland":"<a href='https://www.airport-poznan.com.pl/en/'> Poznan Airport (POZ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/52d4116d93/poznan/' data-label_1='POZNAŃ' data-label_2='WEATHER' data-theme='dark' >POZNAŃ WEATHER</a>"
     },
     "szz":{
-        "Poland":"<a href='http://www.airport.com.pl/en/'> Szczecin Airport (SZZ)</a>"
+        "Poland":"<a href='http://www.airport.com.pl/en/'> Szczecin Airport (SZZ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/53d4314d55/szczecin/' data-label_1='SZCZECIN' data-label_2='WEATHER' data-theme='dark' >SZCZECIN WEATHER</a>"
     },
     "waw":{
-        "Poland":"<a href='https://www.lotnisko-chopina.pl/?lang=en'> Warsaw Chopin Airport (WAW)</a>"
+        "Poland":"<a href='https://www.lotnisko-chopina.pl/?lang=en'> Warsaw Chopin Airport (WAW)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/52d2321d01/warsaw/' data-label_1='WARSAW' data-label_2='WEATHER' data-theme='dark' >WARSAW WEATHER</a>"
     },
     "wro":{
-        "Poland":"<a href='http://airport.wroclaw.pl/en/'> Wroclaw Airport (WRO)</a>"
+        "Poland":"<a href='http://airport.wroclaw.pl/en/'> Wroclaw Airport (WRO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/51d1117d04/wroclaw/' data-label_1='WROCŁAW' data-label_2='WEATHER' data-theme='dark' >WROCŁAW WEATHER</a>"
     },
     "fao":{
-        "Portugal":"<a href='https://www.aeroportofaro.pt/en/fao/home'> Faro (FAO)</a>"
+        "Portugal":"<a href='https://www.aeroportofaro.pt/en/fao/home'> Faro (FAO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/37d02n7d93/faro/' data-label_1='FARO' data-label_2='WEATHER' data-theme='dark' >FARO WEATHER</a>"
     },
     "lis":{
-        "Portugal":"<a href='http://www.lisbon-airport.com/'> Lisbon Airport (LIS)</a>"
+        "Portugal":"<a href='http://www.lisbon-airport.com/'> Lisbon Airport (LIS)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/38d72n9d14/lisbon/' data-label_1='LISBON' data-label_2='WEATHER' data-theme='dark' >LISBON WEATHER</a>"
     },
     "opo":{
-        "Portugal":"<a href='http://www.porto-airport.com/'> Porto Airport (OPO)</a>"
+        "Portugal":"<a href='http://www.porto-airport.com/'> Porto Airport (OPO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/41d16n8d63/porto/' data-label_1='PORTO' data-label_2='WEATHER' data-theme='dark' >PORTO WEATHER</a>"
     },
     "otp":{
-        "Romania":"<a href='http://www.bucharestairports.ro/index.php?lang=en'> Bucharest H. Coanda Airport (OTP)</a>"
+        "Romania":"<a href='http://www.bucharestairports.ro/index.php?lang=en'> Bucharest H. Coanda Airport (OTP)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/44d4326d10/bucharest/' data-label_1='BUCHAREST' data-label_2='WEATHER' data-theme='dark' >BUCHAREST WEATHER</a>"
     },
     "clj":{
         "Romania":"<a href='http://airportcluj.ro/?id_limba=2'> Cluj-Napoca Airport (CLJ)</a>"
@@ -418,9 +418,6 @@
     },
     "vxo":{
         "Sweden":"<a href='https://smalandairport.se/'> Vaxjo (VXO)</a>"
-    },
-    "mlh":{
-        "Switzerland":"<a href='http://www.euroairport.com/'> Mulhouse-Freiburg Airport (MLH)</a>"
     },
     "bsl":{
         "Switzerland":"<a href='https://www.euroairport.com/en/'> Basel-Mulhouse-Freiburg Airport (BSL)</a>"

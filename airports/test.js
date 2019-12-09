@@ -1,1 +1,1 @@
-<a class='weatherwidget-io' href='https://forecast7.com/en/42d7023d32/sofia/' data-label_1='SOFIA' data-label_2='WEATHER' data-theme='original' >SOFIA WEATHER</a>
+<a class='weatherwidget-io' href='https://forecast7.com/en/42d6621d17/prishtina/' data-label_1='PRIŞTINA' data-label_2='WEATHER' data-theme='dark' >PRIŞTINA WEATHER</a>
