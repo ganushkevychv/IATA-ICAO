@@ -40,7 +40,7 @@
           let canvas = document.getElementById('pdfRenderer');
           let context = canvas.getContext('2d');
 
-          let viewport = page.getViewport(1.0);
+          let viewport = page.getViewport(1);
           let scale = container.clientWidth / viewport.width;
           viewport = page.getViewport(scale);
 
