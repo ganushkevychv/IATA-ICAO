@@ -8,11 +8,13 @@
     <title>My Schedule</title>
 </head>
 <body>
-    <input type="file" name="files[]" id="fileUpload">
+    <label class="file">Choose a file
+    <input type="file" name="files[]" id="fileUpload" class="upload">
+</label>
     <div id="pdfViewer">
         <canvas id="pdfRenderer"></canvas>
     </div>
-        <a href="/index.html" class="backLink">Back</a>
+        <a href="/index.html" class="backLink"><p>Back</p></a>
         <script src="/schedule/pdf.js"></script>
         <script src="/schedule/pdf.worker.js"></script>
         <script src="/schedule/simple.js"></script>

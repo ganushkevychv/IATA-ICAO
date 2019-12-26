@@ -569,10 +569,10 @@
         "Repeated Deicing due to expired Hold Over Time":" Deicing shall be repeated due to expired Hold Over Time before departure"
     },
     "76":{
-        "REMOVAL OF SNOW, ICE, WATER AND SAND FROM AIRPORT":" Delay caused by contamination removal from airport areas"
+        "Removal of snow, ice, water and sand from airport":" Delay caused by contamination removal from airport areas"
     },
     "77":{
-        "GROUND HANDLING IMPAIRED BY ADVERSE WEATHER CONDITIONS":" Delay caused by adverse weather conditions at the departure airport"
+        "Ground handling impaired by adverse weather conditions":" Delay caused by adverse weather conditions at the departure airport"
     },
     "77a":{
         "Airport / Handling limitations":" Delay caused by adverse weather conditions which have limitation on airport movements and/or handling services"
@@ -581,7 +581,7 @@
             "Aircraft / Airline limitations":" Delay caused by adverse weather conditions which have limitation on aircraft and/or airline performance"
         },
         "80":{
-            "MISSED ATC SLOT":" Delay caused by missed ATC slot"
+            "Missed ATC slot":" Delay caused by missed ATC slot"
         },
         "81":{
             "ATFM DUE TO ATC EN-ROUTE DEMAND/CAPACITY":" Delay caused by “standard” demand/capacity problems of ATC thus Slot time allocation"
