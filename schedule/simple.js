@@ -62,7 +62,9 @@
 
   displayPdf();
 
-
+  document.addEventListener('webviewerloaded', function() {
+    PDFViewerApplicationOptions.set('printResolution', 300);
+  });
   
 
 function convertDataURIToBinary(dataURI) {
