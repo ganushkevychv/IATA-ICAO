@@ -19,7 +19,7 @@
   }
 
   function displayPdf() {
-    let fromStorage = localStorage.getItem(fileKey);
+    var fromStorage = localStorage.getItem(fileKey);
 
         if (!fromStorage) return;
 
@@ -28,31 +28,25 @@
     pdfjsLib.getDocument(typedArray)
       .promise
       .then(pdf => {
-        let pageNumber = 1;
+        var pageNumber = 1;
         pdf.getPage(pageNumber).then(function(page) {
           console.log('Page loaded');
           
-          /*let scale = 1.5;
-          let viewport = page.getViewport({scale: scale});*/
-          
+          var scale = 1.0;
+          var viewport = page.getViewport({scale: scale});
+
           // Prepare canvas using PDF page dimensions
-          let container = document.getElementById('pdfViewer')
-          let canvas = document.getElementById('pdfRenderer');
-          let context = canvas.getContext('2d');
-
-          let viewport = page.getViewport(1);
-          let scale = container.clientWidth / viewport.width;
-          viewport = page.getViewport(scale);
-
+          var canvas = document.getElementById('pdfRenderer');
+          var context = canvas.getContext('2d');
           canvas.height = viewport.height;
           canvas.width = viewport.width;
 
           // Render PDF page into canvas context
-          let renderContext = {
+          var renderContext = {
             canvasContext: context,
             viewport: viewport
           };
-          let renderTask = page.render(renderContext);
+          var renderTask = page.render(renderContext);
           renderTask.promise.then(function () {
             console.log('Page rendered');
           });
@@ -62,18 +56,16 @@
 
   displayPdf();
 
-  document.addEventListener('webviewerloaded', function() {
-    PDFViewerApplicationOptions.set('printResolution', 300);
-  });
+
   
 
 function convertDataURIToBinary(dataURI) {
-  let BASE64_MARKER = ';base64,';
-  let base64Index = dataURI.indexOf(BASE64_MARKER) + BASE64_MARKER.length;
-  let base64 = dataURI.substring(base64Index);
-  let raw = window.atob(base64);
-  let rawLength = raw.length;
-  let array = new Uint8Array(new ArrayBuffer(rawLength));
+  var BASE64_MARKER = ';base64,';
+  var base64Index = dataURI.indexOf(BASE64_MARKER) + BASE64_MARKER.length;
+  var base64 = dataURI.substring(base64Index);
+  var raw = window.atob(base64);
+  var rawLength = raw.length;
+  var array = new Uint8Array(new ArrayBuffer(rawLength));
 
   for(i = 0; i < rawLength; i++) {
     array[i] = raw.charCodeAt(i);
