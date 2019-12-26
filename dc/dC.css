@@ -46,10 +46,10 @@ display: flex;
 justify-content: center;
 margin: 5px;
 }
-#result{
-  display: flex;
+#result, div{
+display: flex;
 color:white;
-justify-content: center;
+text-align:center;
 font-size: 20px;
 }
 a {
