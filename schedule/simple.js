@@ -32,12 +32,18 @@
         pdf.getPage(pageNumber).then(function(page) {
           console.log('Page loaded');
           
-          let scale = 1.5;
-          let viewport = page.getViewport({scale: scale});
-
+          /*let scale = 1.5;
+          let viewport = page.getViewport({scale: scale});*/
+          
           // Prepare canvas using PDF page dimensions
+          let container = document.getElementById('pdfViewer')
           let canvas = document.getElementById('pdfRenderer');
           let context = canvas.getContext('2d');
+
+          let viewport = page.getViewport(1.0);
+          let scale = container.clientWidth / viewport.width;
+          viewport = page.getViewport(scale);
+
           canvas.height = viewport.height;
           canvas.width = viewport.width;
 
