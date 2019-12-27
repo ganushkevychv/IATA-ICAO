@@ -64,4 +64,18 @@ color: #0E8BB8;
 }
 a:hover { 
   text-decoration: underline;
-  }
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  border: 1px solid #ddd;
+}
+
+ul li {
+  padding: 8px 16px;
+  border-bottom: 1px solid #ddd;
+}
+
+ul li:last-child {
+  border-bottom: none
+}

@@ -92,7 +92,7 @@ fetch("/fdp/time.json").then(function(response) {
 
     for (let i = 0; i < data.length; i++) {
       option = document.createElement("option");
-      option.text = data[i].time;
+      option.text = Object.keys(data[i].time) ;
       timeSelection.add(option);
     }
   });

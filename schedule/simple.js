@@ -19,7 +19,7 @@
   }
 
   function displayPdf() {
-    var fromStorage = localStorage.getItem(fileKey);
+    let fromStorage = localStorage.getItem(fileKey);
 
         if (!fromStorage) return;
 
@@ -28,25 +28,25 @@
     pdfjsLib.getDocument(typedArray)
       .promise
       .then(pdf => {
-        var pageNumber = 1;
+        let pageNumber = 1;
         pdf.getPage(pageNumber).then(function(page) {
           console.log('Page loaded');
           
-          var scale = 1.0;
-          var viewport = page.getViewport({scale: scale});
+          let scale = 1.0;
+          let viewport = page.getViewport({scale: scale});
 
           // Prepare canvas using PDF page dimensions
-          var canvas = document.getElementById('pdfRenderer');
-          var context = canvas.getContext('2d');
+          let canvas = document.getElementById('pdfRenderer');
+          let context = canvas.getContext('2d');
           canvas.height = viewport.height;
           canvas.width = viewport.width;
 
           // Render PDF page into canvas context
-          var renderContext = {
+          let renderContext = {
             canvasContext: context,
             viewport: viewport
           };
-          var renderTask = page.render(renderContext);
+          let renderTask = page.render(renderContext);
           renderTask.promise.then(function () {
             console.log('Page rendered');
           });
@@ -60,12 +60,12 @@
   
 
 function convertDataURIToBinary(dataURI) {
-  var BASE64_MARKER = ';base64,';
-  var base64Index = dataURI.indexOf(BASE64_MARKER) + BASE64_MARKER.length;
-  var base64 = dataURI.substring(base64Index);
-  var raw = window.atob(base64);
-  var rawLength = raw.length;
-  var array = new Uint8Array(new ArrayBuffer(rawLength));
+  let BASE64_MARKER = ';base64,';
+  let base64Index = dataURI.indexOf(BASE64_MARKER) + BASE64_MARKER.length;
+  let base64 = dataURI.substring(base64Index);
+  let raw = window.atob(base64);
+  let rawLength = raw.length;
+  let array = new Uint8Array(new ArrayBuffer(rawLength));
 
   for(i = 0; i < rawLength; i++) {
     array[i] = raw.charCodeAt(i);
