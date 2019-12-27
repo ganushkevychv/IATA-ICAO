@@ -23,4 +23,4 @@ fetch("/alphabet/alphabet.json")
       return true;
     };
     emptyForm();
-  };*/
+  };

@@ -31,6 +31,8 @@ text-shadow: 0 0 1px rgb(3,43,58);
 justify-content: center;
 align-items: center;
 background: #0E8BB8 linear-gradient(#0A5E7D, #0E8BB8);
+border-radius: 0 20px 20px 0;
+border-color: #0E8BB8;
 }
 p{
  display: flex;
@@ -40,6 +42,8 @@ p{
 input:invalid, input:valid  {
 background-color: #383428;
 color: white;
+border-radius: 20px 0 0 20px;
+border-color: #0E8BB8;
 }
 h1{
 display: flex;

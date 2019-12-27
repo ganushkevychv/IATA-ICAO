@@ -69,7 +69,9 @@ body {
   }
   option, select{
     background-color:#0E8BB8;
+    border-color: #0E8BB8;
   }
+  
   #addBtn, #addBtnTwo{
     
     color: rgba(255,255,255,1.8);
