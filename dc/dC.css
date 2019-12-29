@@ -71,8 +71,9 @@ a:hover {
 }
 ul {
   list-style-type: none;
-  padding: 0;
+  padding: 10px;
   border: 1px solid #ddd;
+
 }
 
 ul li {
