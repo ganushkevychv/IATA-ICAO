@@ -1,0 +1,386 @@
+{
+    "aap":{
+        "AAP":" Aft Attendant Panel"
+    },
+    "abp":{
+        "ABP":" Able Bodied Passenger"
+    },
+    "a/c":{
+        "A/C":" Aircraft"
+    },
+    "acp":{
+        "ACP":" Area Call Panel"
+    },
+    "a/p":{
+        "A/P":" Aerodrome / Airport"
+    },
+    "aog":{
+        "AOG":" Aircraft on Ground"
+    },
+    "aom":{
+        "AOM":" Aircraft Operations Manual"
+    },
+    "apu":{
+        "APU":" Auxiliary Power Unit"
+    },
+    "ata":{
+        "ATA":" Actual Time of Arrival"
+    },
+    "atc":{
+        "ATC":" Air Traffic Control"
+    },
+    "atd":{
+        "ATD":" Actual Time of Departure"
+    },
+    "caa":{
+        "CAA":" Civil Aviation Authority"
+    },
+    "cids":{
+        "CIDS":" Cabin Intercommunication Data System"
+    },
+    "co2":{
+        "CO2":" Carbon Dioxide"
+    },
+    "cpr":{
+        "CPR":" Cardio Pulmonary Resuscitation"
+    },
+    "dv":{
+        "DV":" Direct Vision Window"
+    },
+    "eta":{
+        "ETA":" Estimated Time of Arriaval"
+    },
+    "edt":{
+        "EDT":" Estimated Time of Departure"
+    },
+    "faa":{
+        "FAA":" Federal Aviation Administration"
+    },
+    "fap":{
+        "FAP":" Forward Attendant Panel"
+    },
+    "fsb":{
+        "FSB":" Fasten Seat Belt"
+    },
+    "gmt/zulu":{
+        "GMT/Zulu":" Greenwich Meantime"
+    },
+    "iata":{
+        "IATA":" International Air Transport Association"
+    },
+    "inf":{
+        "INF":" Infant"
+    },
+    "jaa":{
+        "JAA":" Joint Aviation Authority"
+    },
+    "jar":{
+        "JAR":" Joint Aviation Requirement"
+    },
+    "jar-ops1":{
+        "JAR-OPS1":" Joint Aviation Requirements for Operations of Aircraft"
+    },
+    "lbs":{
+        "Lbs":" Pounds (Weight)"
+    },
+    "lh":{
+        "LH":" Left Hand Side"
+    },
+    "lrbl":{
+        "LRBL":" Least Risk Bomb Location"
+    },
+    "lsu":{
+        "LSU":" Lavatory Service Unit"
+    },
+    "mel":{
+        "MEL":" Minimum Equipment List"
+    },
+    "nil":{
+        "Nil":" Zero / Nothing"
+    },
+    "nits":{
+        "NITS":" Nature of Emergency"
+    },
+    "nm":{
+        "Nm":" Nautical Mile (1.8km)"
+    },
+    "om":{
+        "OM":" Flight Operation Manual"
+    },
+    "pa":{
+        "PA":" Public Address System/Public/Passenger Announcement"
+    },
+    "pax":{
+        "PAX":" Passenger/s"
+    },
+    "pf":{
+        "PF":" Pilot Flying"
+    },
+    "pic":{
+        "PIC":" Pilot in Command"
+    },
+    "pnf":{
+        "PNF":" Pilot not Flying"
+    },
+    "prm":{
+        "PRM":" Person with Reduced Mobility"
+    },
+    "psu":{
+        "PSU":" Passenger Service Unit"
+    },
+    "ref":{
+        "Ref":" Refer to"
+    },
+    "rh":{
+        "RH":" Right Hand Side"
+    },
+    "sccm":{
+        "SCCM":" Senior Cabin Crew Member"
+    },
+    "sca":{
+        "SCA":" Senior Cabin Attendant"
+    },
+    "sep":{
+        "SEP":" Safety Equipment and Procedures"
+    },
+    "sop":{
+        "SOP":" Standard Operating Procedures"
+    },
+    "sta":{
+        "STA":" Scheduled Time of Arrival"
+    },
+    "std":{
+        "STD":" Scheduled Time of Departure"
+    },
+    "tbn":{
+        "TBN":" To be Notified"
+    },
+    "tob":{
+        "TOB":" Total on Board"
+    },
+    "u/s":{
+        "U/S":" Unserviceable"
+    },
+    "wch":{
+        "WCH":" Wheelchair"
+    },
+    "wchr":{
+        "WCHR":" A passenger who requires a wheelchair or other means for movements between the aircraft and the terminal. The passenger is able to walk up or down stairs and can move about the aircraft cabin."
+    },
+    "wchs":{
+        "WCHS":" A passenger that requires a wheelchair to move between the aircraft and the terminal. The passenger cannot walk up or down stairs"
+    },
+    "wchc":{
+        "WCHC":" A passenger who requires a wheelchair or other means for movements between the aircraft and the terminal. The passenger is not able to walk up or down stairs and can't move about the aircraft cabin."
+    },
+    "ca":{
+        "CA":" Cabin Crew/Cabin Attendant"
+    },
+    "dg":{
+        "DG":" Dangerous Goods"
+    },
+    "jca":{
+        "JCA":" Junior Cabin Attendant"
+    },
+    "easa":{
+        "EASA":" European Aviation Safety Agency"
+    },
+    "rwy":{
+        "RWY":" Runway"
+    },
+    "elt":{
+        "ELT":" Emergency Locator Transmitter"
+    },
+    "eod":{
+        "EOD":" Explosive Ordnance Disposal"
+    },
+    "fa":{
+        "FA":" Flight Attendant"
+    },
+    "FO":{
+        "FO":" First Officer"
+    },
+    "icao":{
+        "ICAO":" International Civil Aviation Organisation"
+    },
+    "cavok":{
+        "CAVOK":" Ceiling and Visibility OK"
+    },
+    "cb":{
+        "CB":" CB"
+    },
+    "cc":{
+        "CC":" Cabin Crew"
+    },
+    "g":{
+        "G":" G-force"
+    },
+    "ga":{
+        "GA":" General Aviation"
+    },
+    "g/a":{
+        "G/A":" Go Around"
+    },
+    "kts":{
+        "KTS":" Knots"
+    },
+    "nav":{
+        "NAV":" Navigation"
+    },
+    "oxy":{
+        "OXY":" Oxygen"
+    },
+    "pob":{
+        "PoB":" Passengers on Board"
+    },
+    "sos":{
+        "SOS":" Save our Souls (Distress call)"
+    },
+    "tcas":{
+        "TCAS":" Traffic Collision Avoidance System"
+    },
+    "t/o":{
+        "T/O":" Take off"
+    },
+    "ttl":{
+        "TTL":" Total"
+    },
+    "twy":{
+        "TWY":" Taxiway"
+    },
+    "ufo":{
+        "UFO":" Unidentified Flying Object"
+    },
+    "inop":{
+        "INOP":" Inoperative"
+    },
+    "aip":{
+        "AIP":" Attendant Indication Panel"
+    },
+    "alt":{
+        "ALT":" Altitude"
+    },
+    "aoc":{
+        "AOC":" Aircraft Operator Certificate"
+    },
+    "brt":{
+        "BRT":" Bright"
+    },
+    "cam":{
+        "CAM":" Cabin Attendant Manual"
+    },
+    "ckpt":{
+        "CKPT":" Cockpit"
+    },
+    "co":{
+        "CO":" Crew Order"
+    },
+    "crm":{
+        "CRM":" Crew Resource Management"
+    },
+    "dhc":{
+        "DHC":" Dead Heading Crew"
+    },
+    "depa":{
+        "DEPA":" Deported Passenger with an escort"
+    },
+    "depu":{
+        "DEPU":" Deported Passenger without an escort "
+    },
+    "dgr":{
+        "DGR":" Dangerous Goods regulations"
+    },
+    "eng":{
+        "ENG":" Engine"
+    },
+    "epsu":{
+        "EPSU":" Emergency Power Supply Unit"
+    },
+    "epos":{
+        "EPOS":" Electronic Point of Sale"
+    },
+    "ecam":{
+        "ECAM":" Electronic Centralized Aircraft Monitoring"
+    },
+    "fdp":{
+        "FDP":" Flight Duty Period"
+    },
+    "fwd":{
+        "FWD":" Forward"
+    },
+    "gpu":{
+        "GPU":" Ground Power Unit"
+    },
+    "gps":{
+        "GPS":" Global Positioning System"
+    },
+    "hp":{
+        "HP":" Holiday Paid"
+    },
+    "id":{
+        "ID":" Identity number"
+    },
+    "ils":{
+        "ILS":" Instrument Landing System"
+    },
+    "inad":{
+        "INAD":" Inadmissible passenger"
+    },
+    "int":{
+        "INT":" Interphone"
+    },
+    "iso":{
+        "ISO":" International Standarts Organization"
+    },
+    "lav":{
+        "LAV":" Lavatory"
+    },
+    "lmc":{
+        "LMC":" Last Minute Changes"
+    },
+    "lt":{
+        "LT":" Local Time"
+    },
+    "lvo":{
+        "LVO":" Low Visibility Operation"
+    },
+    "maas":{
+        "MAAS":" Meet and Assist"
+    },
+    "metar":{
+        "METAR":" Aviation Routine Weather Report"
+    },
+    "mrt":{
+        "MRT":" Manual Release Tool"
+    },
+    "msg":{
+        "MSG":" Message"
+    },
+    "notam":{
+        "NOTAM":" Notice to Airman"
+    },
+    "ohsc":{
+        "OHSC":" Overhead Stowage Compartment"
+    },
+    "pbe":{
+        "PBE":" Protective Breathing Equipment"
+    },
+    "pb":{
+        "PB":" Push Button"
+    },
+    "ped":{
+        "PED":" Portable Electronic Devices"
+    },
+    "ptt":{
+        "PTT":" Push To Talk"
+    },
+    "qdm":{
+        "QDM":" Quick Downing Mask"
+    },
+    "rffs":{
+        "RFFS":" Rescue and Fire Fighting Services"
+    },
+    "sar":{
+        "SAR":" Search and Rescue"
+    }
+}

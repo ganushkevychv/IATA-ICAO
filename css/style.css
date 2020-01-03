@@ -1,7 +1,7 @@
 body {
   background-color:#383428;
 }
-.dcLink, .fdpLink, .airportsLink, .alphabetLink, .scheduleLink {
+.dcLink, .fdpLink, .airportsLink, .alphabetLink, .scheduleLink, .abbreviationsLink {
   display: flex;
   color: rgba(255,255,255,1.8);
   text-decoration: none;
