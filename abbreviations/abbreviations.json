@@ -1,0 +1,257 @@
+{
+    "AAP":{
+        "AAP":"Aft Attendant Panel"
+    },
+    "ABP":{
+        "ABP":"Able Bodied Passenger"
+    },
+    "A/C":{
+        "A/C":"Aircraft"
+    },
+    "ACP":{
+        "ACP":"Area Call Panel"
+    },
+    "A/P":{
+        "A/P":"Aerodrome / Airport"
+    },
+    "AOG":{
+        "AOG":"Aircraft on Ground"
+    },
+    "AOM":{
+        "AOM":"Aircraft Operations Manual"
+    },
+    "APU":{
+        "APU":"Auxiliary Power Unit"
+    },
+    "ATA":{
+        "ATA":"Actual Time of Arrival"
+    },
+    "ATC":{
+        "ATC":"Air Traffic Control"
+    },
+    "ATD":{
+        "ATD":"Actual Time of Departure"
+    },
+    "CAA":{
+        "CAA":"Civil Aviation Authority"
+    },
+    "CIDS":{
+        "CIDS":"Cabin Intercommunication Data System"
+    },
+    "CO2":{
+        "CO2":"Carbon Dioxide"
+    },
+    "CPR":{
+        "CPR":"Cardio Pulmonary Resuscitation"
+    },
+    "DV":{
+        "DV":"Direct Vision Window"
+    },
+    "ETA":{
+        "ETA":"Estimated Time of Arriaval"
+    },
+    "EDT":{
+        "EDT":"Estimated Time of Departure"
+    },
+    "FAA":{
+        "FAA":"Federal Aviation Administration"
+    },
+    "FAP":{
+        "FAP":"Forward Attendant Panel"
+    },
+    "FSB":{
+        "FSB":"Fasten Seat Belt"
+    },
+    "GMT / Zulu":{
+        "GMT / Zulu":"Greenwich Meantime"
+    },
+    "IATA":{
+        "IATA":"International Air Transport Association"
+    },
+    "INF":{
+        "INF":"Infant"
+    },
+    "JAA":{
+        "JAA":"Joint Aviation Authority"
+    },
+    "JAR":{
+        "JAR":"Joint Aviation Requirement"
+    },
+    "JAR-OPS1":{
+        "JAR-OPS1":"Joint Aviation Requirements for Operations of Aircraft"
+    },
+    "Lbs":{
+        "Lbs":"Pounds (Weight)"
+    },
+    "LH":{
+        "LH":"Left Hand Side"
+    },
+    "LRBL":{
+        "LRBL":"Least Risk Bomb Location"
+    },
+    "LSU":{
+        "LSU":"Lavatory Service Unit"
+    },
+    "MEL":{
+        "MEL":"Minimum Equipment List"
+    },
+    "Nil":{
+        "Nil":"Zero / Nothing"
+    },
+    "NITS":{
+        "NITS":"Nature of Emergency"
+    },
+    "Nm":{
+        "Nm":"Nautical Mile (1.8km)"
+    },
+    "OM":{
+        "OM":"Flight Operation Manual"
+    },
+    "PA":{
+        "PA":"Public Address System/Public/Passenger Announcement"
+    },
+    "PAX":{
+        "PAX":"Passenger/s"
+    },
+    "PF":{
+        "PF":"Pilot Flying"
+    },
+    "PIC":{
+        "PIC":"Pilot in Command"
+    },
+    "PNF":{
+        "PNF":"Pilot not Flying"
+    },
+    "PRM":{
+        "PRM":"Person with Reduced Mobility"
+    },
+    "PSU":{
+        "PSU":"Passenger Service Unit"
+    },
+    "Ref":{
+        "Ref":"Refer to"
+    },
+    "RH":{
+        "RH":"Right Hand Side"
+    },
+    "SCCM":{
+        "SCCM":"Senior Cabin Crew Member"
+    },
+    "SCA":{
+        "SCA":"Senior Cabin Attendant"
+    },
+    "SEP":{
+        "SEP":"Safety Equipment and Procedures"
+    },
+    "SOP":{
+        "SOP":"Standard Operating Procedures"
+    },
+    "STA":{
+        "STA":"Scheduled Time of Arrival"
+    },
+    "STD":{
+        "STD":"Scheduled Time of Departure"
+    },
+    "TBN":{
+        "TBN":"To be Notified"
+    },
+    "TOB":{
+        "TOB":"Total on Board"
+    },
+    "U/S":{
+        "U/S":"Unserviceable"
+    },
+    "WCH":{
+        "WCH":"Wheelchair"
+    },
+    "WCHR":{
+        "WCHR":"A passenger who requires a wheelchair or other means for movements between the aircraft and the terminal. The passenger is able to walk up or down stairs and can move about the aircraft cabin."
+    },
+    "WCHS":{
+        "WCHS":"A passenger that requires a wheelchair to move between the aircraft and the terminal. The passenger cannot walk up or down stairs"
+    },
+    "WCHC":{
+        "WCHC":"A passenger who requires a wheelchair or other means for movements between the aircraft and the terminal. The passenger is not able to walk up or down stairs and can't move about the aircraft cabin."
+    },
+    "CA":{
+        "CA":"Cabin Crew/Cabin Attendant"
+    },
+    "DG":{
+        "DG":"Dangerous Goods"
+    },
+    "JCA":{
+        "JCA":"Junior Cabin Attendant"
+    },
+    "EASA":{
+        "EASA":"European Aviation Safety Agency"
+    },
+    "RWY":{
+        "RWY":"Runway"
+    },
+    "ELT":{
+        "ELT":"Emergency Locator Transmitter"
+    },
+    "EOD":{
+        "EOD":"Explosive Ordnance Disposal"
+    },
+    "FA":{
+        "FA":"Flight Attendant"
+    },
+    "FO":{
+        "FO":"First Officer"
+    },
+    "ICAO":{
+        "ICAO":"International Civil Aviation Organisation"
+    },
+    "CAVOK":{
+        "CAVOK":"Ceiling and Visibility OK"
+    },
+    "CB":{
+        "CB":"CB"
+    },
+    "CC":{
+        "CC":"Cabin Crew"
+    },
+    "G":{
+        "G":"G-force"
+    },
+    "GA":{
+        "GA":"General Aviation"
+    },
+    "G/A":{
+        "G/A":"Go Around"
+    },
+    "KTS":{
+        "KTS":"Knots"
+    },
+    "NAV":{
+        "NAV":"Navigation"
+    },
+    "OXY":{
+        "OXY":"Oxygen"
+    },
+    "PoB":{
+        "PoB":"Passengers on Board"
+    },
+    "SOS":{
+        "SOS":"Save our Souls (Distress call)"
+    },
+    "TCAS":{
+        "TCAS":"Traffic Collision Avoidance System"
+    },
+    "T/O":{
+        "T/O":"Take off"
+    },
+    "TTL":{
+        "TTL":"Total"
+    },
+    "TWY":{
+        "TWY":"Taxiway"
+    },
+    "UFO":{
+        "UFO":"Unidentified Flying Object"
+    },
+    "INOP":{
+        "INOP":"Inoperative"
+    }
+}
