@@ -9,12 +9,14 @@
 </head>
 <body>
     <p><b>Stand-by</b>
-    <input type="text" size="30" placeholder="Search..." id="standBy">
+    <input type="text" size="30" placeholder="begin at..." id="start">
     <input type="button" value="search" id="search" onclick="searchFunc()">
+    <input type="text" size="30" placeholder="called at..." id="end">
     </p>
     <div id="result"></div>
     <a href="/index.html" class="backLink">Back</a>
     <script src="/sby/sby.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
 </body>
 </html>
