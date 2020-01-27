@@ -1,0 +1,120 @@
+{
+    "fdpOne": {
+      "sectorOneTwo": "Not allowed",
+      "sectorThree": "Not allowed",
+      "sectorFour": "Not allowed",
+      "sectorFive": "Not allowed"
+      
+    },
+    "fdpTwo": {
+      "sectorOneTwo": "13:15",
+      "sectorThree": "12:45",
+      "sectorFour": "12:15",
+      "sectorFive": "11:45"
+      
+    },
+    "fdpThree": {
+      "sectorOneTwo": "13:30",
+      "sectorThree": "13:00",
+      "sectorFour": "12:30",
+      "sectorFive": "12:00"
+      
+    },
+    "fdpFour": {
+      "sectorOneTwo": "13:45",
+      "sectorThree": "13:15",
+      "sectorFour": "12:45",
+      "sectorFive": "12:15"
+      
+    },
+    "fdpFive": {
+      "sectorOneTwo": "14:00",
+      "sectorThree": "13:30",
+      "sectorFour": "13:00",
+      "sectorFive": "12:30"
+      
+    },
+    "fdpSix": {
+      "sectorOneTwo": "13:45",
+      "sectorThree": "13:15",
+      "sectorFour": "12:45",
+      "sectorFive": "Not allowed"
+      
+    },
+    "fdpSeven": {
+      "sectorOneTwo": "13:30",
+      "sectorThree": "13:00",
+      "sectorFour": "12:30",
+      "sectorFive": "Not allowed"
+      
+    },
+    "fdpEight": {
+      "sectorOneTwo": "13:15",
+      "sectorThree": "12:45",
+      "sectorFour": "12:15",
+      "sectorFive": "Not allowed"
+      
+    },
+    "fdpNine": {
+      "sectorOneTwo": "13:00",
+      "sectorThree": "12:30",
+      "sectorFour": "12:00",
+      "sectorFive": "Not allowed"
+      
+    },
+    "fdpTen": {
+      "sectorOneTwo": "12:45",
+      "sectorThree": "Not allowed",
+      "sectorFour": "Not allowed",
+      "sectorFive": "Not allowed"
+      
+    },
+    "fdpEleven": {
+      "sectorOneTwo": "12:30",
+      "sectorThree": "Not allowed",
+      "sectorFour": "Not allowed",
+      "sectorFive": "Not allowed"
+    },
+    "fdpTwelve": {
+      "sectorOneTwo": "12:15",
+      "sectorThree": "Not allowed",
+      "sectorFour": "Not allowed",
+      "sectorFive": "Not allowed"
+      
+    },
+    "fdpThirteen": {
+      "sectorOneTwo": "12:00",
+      "sectorThree": "Not allowed",
+      "sectorFour": "Not allowed",
+      "sectorFive": "Not allowed"
+      
+    },
+    "fdpFourteen": {
+        "sectorOneTwo": "11:45",
+        "sectorThree": "Not allowed",
+        "sectorFour": "Not allowed",
+        "sectorFive": "Not allowed"
+        
+      },
+      "fdpFifteen": {
+        "sectorOneTwo": "Not allowed",
+        "sectorThree": "Not allowed",
+        "sectorFour": "Not allowed",
+        "sectorFive": "Not allowed"
+        
+      },
+      "fdpSixteen": {
+        "sectorOneTwo": "11:15",
+        "sectorThree": "Not allowed",
+        "sectorFour": "Not allowed",
+        "sectorFive": "Not allowed"
+        
+      },
+      "fdpSeventeen": {
+        "sectorOneTwo": "Not allowed",
+        "sectorThree": "Not allowed",
+        "sectorFour": "Not allowed",
+        "sectorFive": "Not allowed"
+        
+      }
+}

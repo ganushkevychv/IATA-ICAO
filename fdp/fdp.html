@@ -69,6 +69,58 @@
 
 <!--<p>Extension not included</p>-->
 </div>
+<p>The extension of FDP without in-flight rest</p>
+<div class="select">
+    <select id="fdpS" onchange="Change();">
+        <option>TIME</option>
+        <option value="fdpOne"> 06:00 - 06:14
+            </option>
+            <option value="fdpTwo"> 06:15 - 06:29
+                </option>
+                <option value="fdpThree"> 06:30 - 06:44
+                    </option>
+                    <option value="fdpFour"> 06:45 - 06:59
+                        </option>
+                        <option value="fdpFive"> 07:00 - 13:29
+                            </option>
+                            <option value="fdpSix"> 13:30 - 13:59
+                                </option>
+                                <option value="fdpSeven"> 14:00 - 14:29
+                                    </option>
+                                    <option value="fdpEight"> 14:30 - 14:59
+                                        </option>
+                                        <option value="fdpNine"> 15:00 - 15:29
+                                            </option>
+                                            <option value="fdpTen"> 15:30 - 15:59
+                                                </option>
+                                                <option value="fdpEleven"> 16:00 - 16:29
+                                                    </option>
+                                                    <option value="fdpTwelve"> 16:30 – 16:59
+                                                        </option>
+                                                        <option value="fdpThirteen"> 17:00 – 17:29
+                                                            </option>
+                                                            <option value="fdpFourteen"> 17:30 – 17:59
+                                                            </option>
+                                                            <option value="fdpFifteen"> 18:00 – 18:29
+                                                            </option>
+                                                            <option value="fdpSixteen"> 18:30 – 18:59
+                                                            </option>
+                                                            <option value="fdpSeventeen"> 19:00 - 05:59
+                                                            </option>
+    </select>
+
+<div class="containerSector">
+<select id="sectorS" onchange="Change();">
+    <option>SECTORS</option>
+    <option value="sectorOneTwo">1 - 2</option>
+    <option value="sectorThree">3</option>
+    <option value="sectorFour">4</option>
+    <option value="sectorFive">5</option>
+    
+</select>
+</div>
+</div>
+<div id="resultExt"> </div>
 <div id="containerBtn">
   <button id="addBtn">Extension +1h</button>
   <button id="addBtnTwo">Extension +2h</button>
@@ -78,5 +130,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
   <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script src="/fdp/scriptFdp.js"></script>
+    <script src="/fdp/ext.js"></script>
 </body>
 </html>
